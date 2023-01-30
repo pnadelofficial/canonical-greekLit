@@ -1,0 +1,771 @@
+,filename,title,author
+0,./data/tlg0057/tlg010/tlg0057.tlg010.perseus-grc1.xml,On the Natural Faculties.,Galen
+1,./data/tlg0059/tlg009/tlg0059.tlg009.perseus-grc2.xml,Parmenides,Plato
+2,./data/tlg0059/tlg036/tlg0059.tlg036.perseus-grc2.xml,Epistles,Plato
+3,./data/tlg0059/tlg031/tlg0059.tlg031.perseus-grc2.xml,Timaeus,Plato
+4,./data/tlg0059/tlg007/tlg0059.tlg007.perseus-grc2.xml,Sophist,Plato
+5,./data/tlg0059/tlg001/tlg0059.tlg001.perseus-grc1.xml,Euthyphro,Plato
+6,./data/tlg0059/tlg006/tlg0059.tlg006.perseus-grc2.xml,Theaetetus,Plato
+7,./data/tlg0059/tlg030/tlg0059.tlg030.perseus-grc2.xml,Republic,Plato
+8,./data/tlg0059/tlg008/tlg0059.tlg008.perseus-grc2.xml,Statesman,Plato
+9,./data/tlg0059/tlg015/tlg0059.tlg015.perseus-grc2.xml,Hipparchus,Plato
+10,./data/tlg0059/tlg012/tlg0059.tlg012.perseus-grc2.xml,Phaedrus,Plato
+11,./data/tlg0059/tlg024/tlg0059.tlg024.perseus-grc2.xml,Meno,Plato
+12,./data/tlg0059/tlg023/tlg0059.tlg023.perseus-grc2.xml,Gorgias,Plato
+13,./data/tlg0059/tlg022/tlg0059.tlg022.perseus-grc2.xml,Protagoras ,Plato
+14,./data/tlg0059/tlg025/tlg0059.tlg025.perseus-grc2.xml,Hippias Major,Plato
+15,./data/tlg0059/tlg013/tlg0059.tlg013.perseus-grc2.xml,Alcibiades 1,Plato
+16,./data/tlg0059/tlg014/tlg0059.tlg014.perseus-grc2.xml,Alcibiades 2,Plato
+17,./data/tlg0059/tlg032/tlg0059.tlg032.perseus-grc2.xml,Critias,Plato
+18,./data/tlg0059/tlg035/tlg0059.tlg035.perseus-grc2.xml,Epinomis,Plato
+19,./data/tlg0059/tlg003/tlg0059.tlg003.perseus-grc2.xml,Crito,Plato
+20,./data/tlg0059/tlg004/tlg0059.tlg004.perseus-grc2.xml,Phaedo,Plato
+21,./data/tlg0059/tlg005/tlg0059.tlg005.perseus-grc2.xml,Cratylus,Plato
+22,./data/tlg0059/tlg002/tlg0059.tlg002.perseus-grc2.xml,Apology,Plato
+23,./data/tlg0059/tlg034/tlg0059.tlg034.perseus-grc2.xml,Laws,Plato
+24,./data/tlg0059/tlg033/tlg0059.tlg033.perseus-grc2.xml,Minos,Plato
+25,./data/tlg0059/tlg011/tlg0059.tlg011.perseus-grc2.xml,Symposium,Plato
+26,./data/tlg0059/tlg016/tlg0059.tlg016.perseus-grc2.xml,Lovers,Plato
+27,./data/tlg0059/tlg029/tlg0059.tlg029.perseus-grc2.xml,Cleitophon,Plato
+28,./data/tlg0059/tlg020/tlg0059.tlg020.perseus-grc2.xml,Lysis,Plato
+29,./data/tlg0059/tlg027/tlg0059.tlg027.perseus-grc2.xml,Ion,Plato
+30,./data/tlg0059/tlg018/tlg0059.tlg018.perseus-grc2.xml,Charmides ,Plato
+31,./data/tlg0059/tlg026/tlg0059.tlg026.perseus-grc2.xml,Hippias Minor,Plato
+32,./data/tlg0059/tlg019/tlg0059.tlg019.perseus-grc2.xml,Laches,Plato
+33,./data/tlg0059/tlg021/tlg0059.tlg021.perseus-grc2.xml,Euthydemus ,Plato
+34,./data/tlg0059/tlg017/tlg0059.tlg017.perseus-grc2.xml,Theages,Plato
+35,./data/tlg0059/tlg028/tlg0059.tlg028.perseus-grc2.xml,Menexenus,Plato
+36,./data/tlg0059/tlg010/tlg0059.tlg010.perseus-grc2.xml,Philebus,Plato
+37,./data/tlg0032/tlg009/tlg0032.tlg009.perseus-grc2.xml,Agesilaus,Xenophon
+38,./data/tlg0032/tlg007/tlg0032.tlg007.perseus-grc2.xml,Cyropaedia,Xenophon
+39,./data/tlg0032/tlg001/tlg0032.tlg001.perseus-grc2.xml,Hellenica,Xenophon
+40,./data/tlg0032/tlg006/tlg0032.tlg006.perseus-grc2.xml,Anabasis,Xenophon
+41,./data/tlg0032/tlg008/tlg0032.tlg008.perseus-grc2.xml,Hiero,Xenophon
+42,./data/tlg0032/tlg012/tlg0032.tlg012.perseus-grc2.xml,On the Cavalry Commander,Xenophon
+43,./data/tlg0032/tlg013/tlg0032.tlg013.perseus-grc2.xml,On the Art of Horsemanship,Xenophon
+44,./data/tlg0032/tlg014/tlg0032.tlg014.perseus-grc2.xml,On Hunting,Xenophon
+45,./data/tlg0032/tlg003/tlg0032.tlg003.perseus-grc2.xml,Economics,Xenophon
+46,./data/tlg0032/tlg004/tlg0032.tlg004.perseus-grc2.xml,Symposium,Xenophon
+47,./data/tlg0032/tlg005/tlg0032.tlg005.perseus-grc2.xml,Apology,Xenophon
+48,./data/tlg0032/tlg002/tlg0032.tlg002.perseus-grc2.xml,Memorabilia,Xenophon
+49,./data/tlg0032/tlg011/tlg0032.tlg011.perseus-grc2.xml,Ways and Means,Xenophon
+50,./data/tlg0032/tlg010/tlg0032.tlg010.perseus-grc2.xml,Constitution of the Lacedaemonians,Xenophon
+51,./data/tlg0035/tlg001/tlg0035.tlg001.perseus-grc2.xml,Eros Drapeta,Moschus
+52,./data/tlg0035/tlg003/tlg0035.tlg003.perseus-grc1.xml,Epitaphius Bios,Moschus
+53,./data/tlg0035/tlg004/tlg0035.tlg004.perseus-grc1.xml,Megara,Moschus
+54,./data/tlg0035/tlg005/tlg0035.tlg005.perseus-grc1.xml,Fragmenta,Moschus
+55,./data/tlg0035/tlg002/tlg0035.tlg002.perseus-grc2.xml,Europa,Moschus
+56,./data/tlg0655/tlg001/tlg0655.tlg001.perseus-grc2.xml,Narrationes Amatoriae,Parthenius
+57,./data/tlg0003/tlg001/tlg0003.tlg001.perseus-grc2.xml,The Peloponnesian War,Thucydides
+58,./data/tlg0004/tlg001/tlg0004.tlg001.perseus-grc2.xml,Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων,Diogenes Laertius
+59,./data/tlg0652/tlg001/tlg0652.tlg001.perseus-grc1.xml,Imagines,Philostratus Minor
+60,./data/tlg0058/tlg001/tlg0058.tlg001.perseus-grc2.xml,Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν,Aeneas Tacticus
+61,./data/tlg0093/tlg009/tlg0093.tlg009.perseus-grc1.xml,Characters,Theophrastus
+62,./data/tlg0094/tlg003/tlg0094.tlg003.perseus-grc1.xml,Placita Philosophorum,Pseudo-Plutarch
+63,./data/tlg0094/tlg002/tlg0094.tlg002.perseus-grc1.xml,De musica,Pseudo-Plutarch
+64,./data/tlg0060/tlg001/tlg0060.tlg001.perseus-grc2.xml,"Bibliotheca Historica, Books XVIII-XX",Diodorus Siculus
+65,./data/tlg0060/tlg001/tlg0060.tlg001.perseus-grc1.xml,"Bibliotheca Historica, Books I-V",Diodorus Siculus
+66,./data/tlg1389/tlg001/tlg1389.tlg001.perseus-grc2.xml,Lexicon in decem oratores Atticos,"Harpocration, Valerius"
+67,./data/tlg0638/tlg007/tlg0638.tlg007.perseus-grc2.xml,De Gymnastica,Philostratus the Athenian
+68,./data/tlg0638/tlg001/tlg0638.tlg001.perseus-grc1.xml,Vita Apollonii,Philostratus the Athenian
+69,./data/tlg0638/tlg006/tlg0638.tlg006.perseus-grc1.xml,Epistulae et dialexeis,Philostratus the Athenian
+70,./data/tlg0638/tlg003/tlg0638.tlg003.perseus-grc1.xml,Vitae Sophistarum,Philostratus the Athenian
+71,./data/tlg0638/tlg004/tlg0638.tlg004.perseus-grc1.xml,Heroicus,Philostratus the Athenian
+72,./data/tlg0638/tlg005/tlg0638.tlg005.perseus-grc1.xml,Nero,Philostratus the Athenian
+73,./data/tlg0005/tlg001/tlg0005.tlg001.perseus-grc1.xml,Idylls ,Theocritus
+74,./data/tlg0005/tlg002/tlg0005.tlg002.perseus-grc1.xml,Epigrams ,Theocritus
+75,./data/tlg0653/tlg001/tlg0653.tlg001.perseus-grc1.xml,Phaenomena,Aratus Solensis
+76,./data/tlg0034/tlg001/tlg0034.tlg001.perseus-grc1.xml,Against Leocrates ,Lycurgus
+77,./data/tlg0033/tlg001/tlg0033.tlg001.perseus-grc2.xml,Ὀλυμπιονῖκαι,Pindar
+78,./data/tlg0033/tlg003/tlg0033.tlg003.perseus-grc2.xml,Νεμεονῖκαι,Pindar
+79,./data/tlg0033/tlg004/tlg0033.tlg004.perseus-grc2.xml,Ἰσθμιονῖκαι,Pindar
+80,./data/tlg0033/tlg002/tlg0033.tlg002.perseus-grc2.xml,Πυθιονῖκαι,Pindar
+81,./data/tlg0525/tlg001/tlg0525.tlg001.perseus-grc2.xml,Ἑλλάδος Περιηγήσεως,Pausanias
+82,./data/tlg2040/tlg004/tlg2040.tlg004.perseus-grc1.xml,Epistulae,"Basil, Saint, Bishop of Caesarea"
+83,./data/tlg2040/tlg002/tlg2040.tlg002.perseus-grc1.xml,"To Young Men, On How They Might Dervice Profit From Pagan Literature","Basil, Saint, Bishop of Caesarea"
+84,./data/tlg0719/tlg001/tlg0719.tlg001.perseus-grc1.xml,De causis et signis acutorum morborum ,Aretaeus
+85,./data/tlg0719/tlg003/tlg0719.tlg003.perseus-grc1.xml,De curatione acutorum morborum ,Aretaeus
+86,./data/tlg0719/tlg004/tlg0719.tlg004.perseus-grc1.xml,De curatione diuturnorum morborum ,Aretaeus
+87,./data/tlg0719/tlg002/tlg0719.tlg002.perseus-grc2.xml,Περὶ αἰτίων καὶ σημείων χρονίων παθῶν,Aretaeus of Cappadocia
+88,./data/tlg1600/tlg001/tlg1600.tlg001.perseus-grc2.xml,Imagines,Philostratus the Lemnian (Philostratus Major)
+89,./data/tlg0540/tlg009/tlg0540.tlg009.perseus-grc2.xml,For The Soldier,Lysias
+90,./data/tlg0540/tlg031/tlg0540.tlg031.perseus-grc2.xml,Against Philon,Lysias
+91,./data/tlg0540/tlg007/tlg0540.tlg007.perseus-grc2.xml,Defense in the Matter of the Olive Stump,Lysias
+92,./data/tlg0540/tlg001/tlg0540.tlg001.perseus-grc2.xml,On the Murder of Eratosthenes,Lysias
+93,./data/tlg0540/tlg006/tlg0540.tlg006.perseus-grc2.xml,Against Andocides,Lysias
+94,./data/tlg0540/tlg030/tlg0540.tlg030.perseus-grc2.xml,Against Nicomachus,Lysias
+95,./data/tlg0540/tlg008/tlg0540.tlg008.perseus-grc2.xml,Accusation of Calumny,Lysias
+96,./data/tlg0540/tlg015/tlg0540.tlg015.perseus-grc2.xml,Against Alcibiades 2,Lysias
+97,./data/tlg0540/tlg012/tlg0540.tlg012.perseus-grc2.xml,Against Eratosthenes,Lysias
+98,./data/tlg0540/tlg024/tlg0540.tlg024.perseus-grc2.xml,On The Refusal Of A Pension,Lysias
+99,./data/tlg0540/tlg023/tlg0540.tlg023.perseus-grc2.xml,Against Pancleon,Lysias
+100,./data/tlg0540/tlg022/tlg0540.tlg022.perseus-grc2.xml,Against The Corn-Dealers,Lysias
+101,./data/tlg0540/tlg025/tlg0540.tlg025.perseus-grc2.xml,Defense Against a Charge of Subverting the Democracy,Lysias
+102,./data/tlg0540/tlg013/tlg0540.tlg013.perseus-grc2.xml,Against Agoratus,Lysias
+103,./data/tlg0540/tlg014/tlg0540.tlg014.perseus-grc2.xml,Against Alcibiades 1,Lysias
+104,./data/tlg0540/tlg032/tlg0540.tlg032.perseus-grc2.xml,Against Diogeiton,Lysias
+105,./data/tlg0540/tlg003/tlg0540.tlg003.perseus-grc2.xml,Against Simon,Lysias
+106,./data/tlg0540/tlg004/tlg0540.tlg004.perseus-grc2.xml,On A Wound By Premeditation,Lysias
+107,./data/tlg0540/tlg005/tlg0540.tlg005.perseus-grc2.xml,For Callias,Lysias
+108,./data/tlg0540/tlg002/tlg0540.tlg002.perseus-grc2.xml,Funeral Oration,Lysias
+109,./data/tlg0540/tlg034/tlg0540.tlg034.perseus-grc2.xml,Against The Subversion of the Ancestral Constitution,Lysias
+110,./data/tlg0540/tlg033/tlg0540.tlg033.perseus-grc2.xml,Olympic Oration,Lysias
+111,./data/tlg0540/tlg011/tlg0540.tlg011.perseus-grc2.xml,Against Theomnestus 2,Lysias
+112,./data/tlg0540/tlg016/tlg0540.tlg016.perseus-grc2.xml,In Defense of Mantitheus,Lysias
+113,./data/tlg0540/tlg029/tlg0540.tlg029.perseus-grc2.xml,Against Philocrates,Lysias
+114,./data/tlg0540/tlg020/tlg0540.tlg020.perseus-grc2.xml,For Polystratus,Lysias
+115,./data/tlg0540/tlg027/tlg0540.tlg027.perseus-grc2.xml,Against Epicrates and his Fellow-envoys,Lysias
+116,./data/tlg0540/tlg018/tlg0540.tlg018.perseus-grc2.xml,On the Confiscation of the Property Of The Brother Of Nicias,Lysias
+117,./data/tlg0540/tlg026/tlg0540.tlg026.perseus-grc2.xml,On the Scrutiny of Evandros,Lysias
+118,./data/tlg0540/tlg019/tlg0540.tlg019.perseus-grc2.xml,On the Property of Aristophanes,Lysias
+119,./data/tlg0540/tlg021/tlg0540.tlg021.perseus-grc2.xml,Defense Against A Charge Of Taking Bribes,Lysias
+120,./data/tlg0540/tlg017/tlg0540.tlg017.perseus-grc2.xml,On The Property Of Eraton,Lysias
+121,./data/tlg0540/tlg028/tlg0540.tlg028.perseus-grc2.xml,Against Ergocles,Lysias
+122,./data/tlg0540/tlg010/tlg0540.tlg010.perseus-grc2.xml,Against Theomnestus 1,Lysias
+123,./data/tlg2046/tlg001/tlg2046.tlg001.perseus-grc1.xml,Fall of Troy,Quintus Smyrnaeus
+124,./data/tlg0548/tlg001/tlg0548.tlg001.perseus-grc2.xml,Library ,Apollodorus
+125,./data/tlg0548/tlg002/tlg0548.tlg002.perseus-grc2.xml,Epitome ,Apollodorus
+126,./data/tlg0555/tlg001/tlg0555.tlg001.perseus-grc1.xml,Protrepticus,Clement of Alexandria
+127,./data/tlg0555/tlg006/tlg0555.tlg006.perseus-grc1.xml,Quis Dis Salvetur,Clement of Alexandria
+128,./data/tlg0555/tlg008/tlg0555.tlg008.perseus-grc1.xml,"Exhortation to Endurance, or to the Newly Baptized",Clement of Alexandria
+129,./data/tlg0555/tlg004/tlg0555.tlg004.perseus-grc1..xml,Stromata (Books I-VI),Clement of Alexandria
+130,./data/tlg0554/tlg001/tlg0554.tlg001.perseus-grc1.xml,De Chaerea et Callirhoe,Chariton
+131,./data/tlg0562/tlg001/tlg0562.tlg001.perseus-grc2.xml,Ad Se Ipsum,Marcus Aurelius
+132,./data/tlg0199/tlg001/tlg0199.tlg001.perseus-grc1.xml,Odes (Greek) - Ep,Bacchylides
+133,./data/tlg0199/tlg002/tlg0199.tlg002.perseus-grc1.xml,Odes (Greek) - Dith,Bacchylides
+134,./data/tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml,Oedipus at Colonus,Sophocles
+135,./data/tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml,Trachiniae,Sophocles
+136,./data/tlg0011/tlg006/tlg0011.tlg006.perseus-grc2.xml,Philoctetes,Sophocles
+137,./data/tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml,Ichneutae,Sophocles
+138,./data/tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml,Ajax,Sophocles
+139,./data/tlg0011/tlg004/tlg0011.tlg004.perseus-grc2.xml,Oedipus Tyrannus,Sophocles
+140,./data/tlg0011/tlg005/tlg0011.tlg005.perseus-grc2.xml,Electra,Sophocles
+141,./data/tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml,Antigone,Sophocles
+142,./data/tlg0647/tlg001/tlg0647.tlg001.perseus-grc1.xml,The Taking of Ilios,Tryphiodorus
+143,./data/tlg0029/tlg006/tlg0029.tlg006.perseus-grc1.xml,Against Philocles ,Dinarchus
+144,./data/tlg0029/tlg004/tlg0029.tlg004.perseus-grc1.xml,Against Demosthenes ,Dinarchus
+145,./data/tlg0029/tlg005/tlg0029.tlg005.perseus-grc1.xml,Against Aristogiton ,Dinarchus
+146,./data/tlg0016/tlg001/tlg0016.tlg001.perseus-grc2.xml,Ἱστορίαι,Herodotus
+147,./data/tlg0020/tlg001/tlg0020.tlg001.perseus-grc2.xml,Theogony (Greek). Machine readable text,Hesiod
+148,./data/tlg0020/tlg003/tlg0020.tlg003.perseus-grc2.xml,Shield of Heracles (Greek). Machine readable text,Hesiod
+149,./data/tlg0020/tlg002/tlg0020.tlg002.perseus-grc2.xml,Works and Days (Greek). Machine readable text,Hesiod
+150,./data/tlg0027/tlg001/tlg0027.tlg001.perseus-grc1.xml,On the Mysteries ,Andocides
+151,./data/tlg0027/tlg003/tlg0027.tlg003.perseus-grc1.xml,"On the Peace with Sparta
+",Andocides
+152,./data/tlg0027/tlg004/tlg0027.tlg004.perseus-grc1.xml,Against Alcibiades ,Andocides
+153,./data/tlg0027/tlg002/tlg0027.tlg002.perseus-grc1.xml,On His Return ,Andocides
+154,./data/tlg0074/tlg001/tlg0074.tlg001.perseus-grc1.xml,Anabasis,Arrian
+155,./data/tlg0074/tlg006/tlg0074.tlg006.perseus-grc1.xml,Acies Contra Alanos,Arrian
+156,./data/tlg0074/tlg003/tlg0074.tlg003.perseus-grc1.xml,Cynegeticus,Arrian
+157,./data/tlg0074/tlg004/tlg0074.tlg004.perseus-grc1.xml,Periplus Ponti Euxini,Arrian
+158,./data/tlg0074/tlg005/tlg0074.tlg005.perseus-grc1.xml,Tactica,Arrian
+159,./data/tlg0074/tlg002/tlg0074.tlg002.perseus-grc1.xml,Indica,Arrian
+160,./data/tlg0284/tlg054/tlg0284.tlg054.perseus-grc1.xml,Orationes 54 ,"Aristides, Aelius"
+161,./data/tlg0284/tlg053/tlg0284.tlg053.perseus-grc1.xml,Orationes 53 ,"Aristides, Aelius"
+162,./data/tlg0284/tlg009/tlg0284.tlg009.perseus-grc1.xml,Orationes 9 ,"Aristides, Aelius"
+163,./data/tlg0284/tlg036/tlg0284.tlg036.perseus-grc1.xml,Orationes 36 ,"Aristides, Aelius"
+164,./data/tlg0284/tlg031/tlg0284.tlg031.perseus-grc1.xml,Orationes 31 ,"Aristides, Aelius"
+165,./data/tlg0284/tlg038/tlg0284.tlg038.perseus-grc1.xml,Orationes 38 ,"Aristides, Aelius"
+166,./data/tlg0284/tlg007/tlg0284.tlg007.perseus-grc1.xml,Orationes 7 ,"Aristides, Aelius"
+167,./data/tlg0284/tlg052/tlg0284.tlg052.perseus-grc1.xml,Orationes 52 ,"Aristides, Aelius"
+168,./data/tlg0284/tlg055/tlg0284.tlg055.perseus-grc1.xml,Orationes 55 ,"Aristides, Aelius"
+169,./data/tlg0284/tlg001/tlg0284.tlg001.perseus-grc1.xml,Orationes 1 ,"Aristides, Aelius"
+170,./data/tlg0284/tlg039/tlg0284.tlg039.perseus-grc1.xml,Orationes 39 ,"Aristides, Aelius"
+171,./data/tlg0284/tlg006/tlg0284.tlg006.perseus-grc1.xml,Orationes 6 ,"Aristides, Aelius"
+172,./data/tlg0284/tlg030/tlg0284.tlg030.perseus-grc1.xml,Orationes 30 ,"Aristides, Aelius"
+173,./data/tlg0284/tlg008/tlg0284.tlg008.perseus-grc1.xml,Orationes 8 ,"Aristides, Aelius"
+174,./data/tlg0284/tlg037/tlg0284.tlg037.perseus-grc1.xml,Orationes 37 ,"Aristides, Aelius"
+175,./data/tlg0284/tlg015/tlg0284.tlg015.perseus-grc1.xml,Orationes 15 ,"Aristides, Aelius"
+176,./data/tlg0284/tlg012/tlg0284.tlg012.perseus-grc1.xml,Orationes 12 ,"Aristides, Aelius"
+177,./data/tlg0284/tlg024/tlg0284.tlg024.perseus-grc1.xml,Orationes 24 ,"Aristides, Aelius"
+178,./data/tlg0284/tlg023/tlg0284.tlg023.perseus-grc1.xml,Orationes 23 ,"Aristides, Aelius"
+179,./data/tlg0284/tlg048/tlg0284.tlg048.perseus-grc1.xml,Orationes 48 ,"Aristides, Aelius"
+180,./data/tlg0284/tlg046/tlg0284.tlg046.perseus-grc1.xml,Orationes 46 ,"Aristides, Aelius"
+181,./data/tlg0284/tlg041/tlg0284.tlg041.perseus-grc1.xml,Orationes 41 ,"Aristides, Aelius"
+182,./data/tlg0284/tlg022/tlg0284.tlg022.perseus-grc1.xml,Orationes 22 ,"Aristides, Aelius"
+183,./data/tlg0284/tlg025/tlg0284.tlg025.perseus-grc1.xml,Orationes 25 ,"Aristides, Aelius"
+184,./data/tlg0284/tlg013/tlg0284.tlg013.perseus-grc1.xml,Orationes 13 ,"Aristides, Aelius"
+185,./data/tlg0284/tlg014/tlg0284.tlg014.perseus-grc1.xml,Orationes 14 ,"Aristides, Aelius"
+186,./data/tlg0284/tlg040/tlg0284.tlg040.perseus-grc1.xml,Orationes 40 ,"Aristides, Aelius"
+187,./data/tlg0284/tlg047/tlg0284.tlg047.perseus-grc1.xml,Orationes 47 ,"Aristides, Aelius"
+188,./data/tlg0284/tlg049/tlg0284.tlg049.perseus-grc1.xml,Orationes 49 ,"Aristides, Aelius"
+189,./data/tlg0284/tlg032/tlg0284.tlg032.perseus-grc1.xml,Orationes 32 ,"Aristides, Aelius"
+190,./data/tlg0284/tlg035/tlg0284.tlg035.perseus-grc1.xml,Orationes 35 ,"Aristides, Aelius"
+191,./data/tlg0284/tlg003/tlg0284.tlg003.perseus-grc1.xml,Orationes 3 ,"Aristides, Aelius"
+192,./data/tlg0284/tlg004/tlg0284.tlg004.perseus-grc1.xml,Orationes 4 ,"Aristides, Aelius"
+193,./data/tlg0284/tlg050/tlg0284.tlg050.perseus-grc1.xml,Orationes 50 ,"Aristides, Aelius"
+194,./data/tlg0284/tlg005/tlg0284.tlg005.perseus-grc1.xml,Orationes 5 ,"Aristides, Aelius"
+195,./data/tlg0284/tlg002/tlg0284.tlg002.perseus-grc1.xml,Orationes 2 ,"Aristides, Aelius"
+196,./data/tlg0284/tlg034/tlg0284.tlg034.perseus-grc1.xml,Orationes 34 ,"Aristides, Aelius"
+197,./data/tlg0284/tlg033/tlg0284.tlg033.perseus-grc1.xml,Orationes 33 ,"Aristides, Aelius"
+198,./data/tlg0284/tlg056/tlg0284.tlg056.perseus-grc1.xml,Ars Rhetorica,"Aristides, Aelius
+	"
+199,./data/tlg0284/tlg051/tlg0284.tlg051.perseus-grc1.xml,Orationes 51 ,"Aristides, Aelius"
+200,./data/tlg0284/tlg042/tlg0284.tlg042.perseus-grc1.xml,Orationes 42 ,"Aristides, Aelius"
+201,./data/tlg0284/tlg045/tlg0284.tlg045.perseus-grc1.xml,Orationes 45 ,"Aristides, Aelius"
+202,./data/tlg0284/tlg011/tlg0284.tlg011.perseus-grc1.xml,Orationes 11 ,"Aristides, Aelius"
+203,./data/tlg0284/tlg016/tlg0284.tlg016.perseus-grc1.xml,Orationes 16 ,"Aristides, Aelius"
+204,./data/tlg0284/tlg029/tlg0284.tlg029.perseus-grc1.xml,Orationes 29 ,"Aristides, Aelius"
+205,./data/tlg0284/tlg020/tlg0284.tlg020.perseus-grc1.xml,Orationes 20 ,"Aristides, Aelius"
+206,./data/tlg0284/tlg027/tlg0284.tlg027.perseus-grc1.xml,Orationes 27 ,"Aristides, Aelius"
+207,./data/tlg0284/tlg018/tlg0284.tlg018.perseus-grc1.xml,Orationes 18 ,"Aristides, Aelius"
+208,./data/tlg0284/tlg044/tlg0284.tlg044.perseus-grc1.xml,Orationes 44 ,"Aristides, Aelius"
+209,./data/tlg0284/tlg043/tlg0284.tlg043.perseus-grc1.xml,Orationes 43 ,"Aristides, Aelius"
+210,./data/tlg0284/tlg026/tlg0284.tlg026.perseus-grc1.xml,Orationes 26 ,"Aristides, Aelius"
+211,./data/tlg0284/tlg019/tlg0284.tlg019.perseus-grc1.xml,Orationes 19 ,"Aristides, Aelius"
+212,./data/tlg0284/tlg021/tlg0284.tlg021.perseus-grc1.xml,Orationes 21 ,"Aristides, Aelius"
+213,./data/tlg0284/tlg017/tlg0284.tlg017.perseus-grc1.xml,Orationes 17 ,"Aristides, Aelius"
+214,./data/tlg0284/tlg028/tlg0284.tlg028.perseus-grc1.xml,Orationes 28 ,"Aristides, Aelius"
+215,./data/tlg0284/tlg010/tlg0284.tlg010.perseus-grc1.xml,Orationes 10 ,"Aristides, Aelius"
+216,./data/tlg4081/tlg001/tlg4081.tlg001.perseus-grc1.xml,Rape of Helen,Colluthus
+217,./data/tlg0613/tlg001/tlg0613.tlg001.perseus-grc1.xml,Libro de Elocutione,Demetrius of Phaleron (attributed author)
+218,./data/tlg4029/tlg001/tlg4029.tlg001.perseus-grc1.xml,de Bellis,Procopius
+219,./data/tlg4029/tlg002/tlg4029.tlg002.perseus-grc1.xml,Historia Arcana (Anecdota),Procopius
+220,./data/tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml,Frogs,Aristophanes
+221,./data/tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml,Lysistrata,Aristophanes
+222,./data/tlg0019/tlg001/tlg0019.tlg001.perseus-grc1.xml,Acharnians,Aristophanes
+223,./data/tlg0019/tlg006/tlg0019.tlg006.perseus-grc2.xml,Birds,Aristophanes
+224,./data/tlg0019/tlg008/tlg0019.tlg008.perseus-grc1.xml,Thesmophoriazusae,Aristophanes
+225,./data/tlg0019/tlg003/tlg0019.tlg003.perseus-grc2.xml,Clouds,Aristophanes
+226,./data/tlg0019/tlg003/tlg0019.tlg003.perseus-grc1.xml,Clouds,Aristophanes
+227,./data/tlg0019/tlg004/tlg0019.tlg004.perseus-grc1.xml,Wasps,Aristophanes
+228,./data/tlg0019/tlg005/tlg0019.tlg005.perseus-grc1.xml,Peace,Aristophanes
+229,./data/tlg0019/tlg002/tlg0019.tlg002.perseus-grc1.xml,Knights,Aristophanes
+230,./data/tlg0019/tlg011/tlg0019.tlg011.perseus-grc1.xml,Plutus,Aristophanes
+231,./data/tlg0019/tlg010/tlg0019.tlg010.perseus-grc1.xml,Ecclesiazusae,Aristophanes
+232,./data/tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml,Ecclesiazusae,Aristophanes
+233,./data/tlg0026/tlg001/tlg0026.tlg001.perseus-grc1.xml,Against Timarchus ,Aeschines
+234,./data/tlg0026/tlg003/tlg0026.tlg003.perseus-grc1.xml,"Against Ctesiphon
+",Aeschines
+235,./data/tlg0026/tlg002/tlg0026.tlg002.perseus-grc1.xml,The Speech on the Embassy ,Aeschines
+236,./data/tlg0648/tlg001/tlg0648.tlg001.perseus-grc1.xml,Strategicus,Onasander
+237,./data/tlg0028/tlg001/tlg0028.tlg001.perseus-grc1.xml,Prosecution Of The Stepmother For Poisoning ,Antiphon
+238,./data/tlg0028/tlg006/tlg0028.tlg006.perseus-grc1.xml,On the Choreutes ,Antiphon
+239,./data/tlg0028/tlg003/tlg0028.tlg003.perseus-grc1.xml,The Second Tetralogy: Prosecution for Accidental Homicide ,Antiphon
+240,./data/tlg0028/tlg004/tlg0028.tlg004.perseus-grc1.xml,The Third Tetralogy: Prosecution for Murder Of One Who Pleads Self-Defense ,Antiphon
+241,./data/tlg0028/tlg005/tlg0028.tlg005.perseus-grc1.xml,Περὶ τοῦ Ἡρῷδου φόνου ,Antiphon
+242,./data/tlg0028/tlg002/tlg0028.tlg002.perseus-grc1.xml,Anonymous Prosecution for Murder ,Antiphon
+243,./data/tlg0641/tlg001/tlg0641.tlg001.perseus-grc2.xml,Ephesiaca,Xenophon of Ephesus
+244,./data/tlg0017/tlg009/tlg0017.tlg009.perseus-grc1.xml,On the Estate of Astyphilus ,Isaeus
+245,./data/tlg0017/tlg007/tlg0017.tlg007.perseus-grc1.xml,On The Estate of Apollodorus ,Isaeus
+246,./data/tlg0017/tlg001/tlg0017.tlg001.perseus-grc1.xml,On The Estate of Cleonymus ,Isaeus
+247,./data/tlg0017/tlg006/tlg0017.tlg006.perseus-grc1.xml,On the Estate of Philoctemon ,Isaeus
+248,./data/tlg0017/tlg008/tlg0017.tlg008.perseus-grc1.xml,"On The Estate of Ciron
+",Isaeus
+249,./data/tlg0017/tlg012/tlg0017.tlg012.perseus-grc1.xml,On Behalf of Euphiletus ,Isaeus
+250,./data/tlg0017/tlg003/tlg0017.tlg003.perseus-grc1.xml,On The Estate Of Pyrrhus ,Isaeus
+251,./data/tlg0017/tlg004/tlg0017.tlg004.perseus-grc1.xml,On the Estate of Nicostratus ,Isaeus
+252,./data/tlg0017/tlg005/tlg0017.tlg005.perseus-grc1.xml,On the Estate of Dicaeogenes ,Isaeus
+253,./data/tlg0017/tlg002/tlg0017.tlg002.perseus-grc1.xml,On the Estate of Menecles ,Isaeus
+254,./data/tlg0017/tlg011/tlg0017.tlg011.perseus-grc1.xml,On the Estate of Hagnias ,Isaeus
+255,./data/tlg0017/tlg010/tlg0017.tlg010.perseus-grc1.xml,On The Estate Of Aristarchus ,Isaeus
+258,./data/tlg0010/tlg009/tlg0010.tlg009.perseus-grc2.xml,Helen,Isocrates
+259,./data/tlg0010/tlg007/tlg0010.tlg007.perseus-grc2.xml,To Demonicus,Isocrates
+260,./data/tlg0010/tlg001/tlg0010.tlg001.perseus-grc2.xml,Against Euthynus,Isocrates
+261,./data/tlg0010/tlg006/tlg0010.tlg006.perseus-grc2.xml,Aegineticus,Isocrates
+262,./data/tlg0010/tlg030/tlg0010.tlg030.perseus-grc2.xml,"To Philip, II",Isocrates
+263,./data/tlg0010/tlg008/tlg0010.tlg008.perseus-grc2.xml,Against the Sophists,Isocrates
+264,./data/tlg0010/tlg015/tlg0010.tlg015.perseus-grc2.xml,Evagoras,Isocrates
+265,./data/tlg0010/tlg012/tlg0010.tlg012.perseus-grc2.xml,Plataicus,Isocrates
+266,./data/tlg0010/tlg024/tlg0010.tlg024.perseus-grc2.xml,To Archidamus,Isocrates
+267,./data/tlg0010/tlg023/tlg0010.tlg023.perseus-grc2.xml,To the Children of Jason,Isocrates
+268,./data/tlg0010/tlg022/tlg0010.tlg022.perseus-grc2.xml,To Dionysius,Isocrates
+269,./data/tlg0010/tlg025/tlg0010.tlg025.perseus-grc2.xml,To the Rulers of the Mytilenaeans,Isocrates
+270,./data/tlg0010/tlg013/tlg0010.tlg013.perseus-grc2.xml,To Nicocles,Isocrates
+271,./data/tlg0010/tlg014/tlg0010.tlg014.perseus-grc2.xml,Nicocles or the Cyprians,Isocrates
+272,./data/tlg0010/tlg003/tlg0010.tlg003.perseus-grc2.xml,Against Lochites,Isocrates
+273,./data/tlg0010/tlg004/tlg0010.tlg004.perseus-grc2.xml,Concerning the Team of Horses,Isocrates
+274,./data/tlg0010/tlg005/tlg0010.tlg005.perseus-grc2.xml,Trapeziticus,Isocrates
+275,./data/tlg0010/tlg002/tlg0010.tlg002.perseus-grc2.xml,Against Callimachus,Isocrates
+276,./data/tlg0010/tlg011/tlg0010.tlg011.perseus-grc2.xml,Panegyricus,Isocrates
+277,./data/tlg0010/tlg016/tlg0010.tlg016.perseus-grc2.xml,Archidamus,Isocrates
+278,./data/tlg0010/tlg029/tlg0010.tlg029.perseus-grc2.xml,To Antipater,Isocrates
+279,./data/tlg0010/tlg020/tlg0010.tlg020.perseus-grc2.xml,To Philip,Isocrates
+280,./data/tlg0010/tlg027/tlg0010.tlg027.perseus-grc2.xml,"To Philip, I",Isocrates
+281,./data/tlg0010/tlg018/tlg0010.tlg018.perseus-grc2.xml,Areopagiticus,Isocrates
+282,./data/tlg0010/tlg019/tlg0010.tlg019.perseus-grc2.xml,Antidosis,Isocrates
+283,./data/tlg0010/tlg021/tlg0010.tlg021.perseus-grc2.xml,Panathenaicus,Isocrates
+284,./data/tlg0010/tlg017/tlg0010.tlg017.perseus-grc2.xml,On the Peace,Isocrates
+285,./data/tlg0010/tlg028/tlg0010.tlg028.perseus-grc2.xml,To Alexander,Isocrates
+286,./data/tlg0010/tlg010/tlg0010.tlg010.perseus-grc2.xml,Busiris,Isocrates
+287,./data/tlg0612/tlg001/tlg0612.tlg001.perseus-grc1.xml,Orationes,Dio Chrysostom
+288,./data/tlg0081/tlg009/tlg0081.tlg009.perseus-grc1.xml,De Dinarcho,Dionysius of Halicarnassus
+289,./data/tlg0081/tlg007/tlg0081.tlg007.perseus-grc1.xml,Libri secundi de antiquis oratoribus reliquiae,Dionysius of Halicarnassus
+290,./data/tlg0081/tlg001/tlg0081.tlg001.perseus-grc1.xml,"Antiquitates Romanae, Books I-XX",Dionysius of Halicarnassus
+291,./data/tlg0081/tlg006/tlg0081.tlg006.perseus-grc1.xml,De Demosthene,Dionysius of Halicarnassus
+292,./data/tlg0081/tlg008/tlg0081.tlg008.perseus-grc1.xml,Ad Ammaeum,Dionysius of Halicarnassus
+293,./data/tlg0081/tlg015/tlg0081.tlg015.perseus-grc1.xml,Epistula ad Pompeium Geminum,Dionysius of Halicarnassus
+294,./data/tlg0081/tlg012/tlg0081.tlg012.perseus-grc1.xml,De Compositione Verborum,Dionysius of Halicarnassus
+295,./data/tlg0081/tlg003/tlg0081.tlg003.perseus-grc1.xml,De Lysia,Dionysius of Halicarnassus
+296,./data/tlg0081/tlg004/tlg0081.tlg004.perseus-grc1.xml,De Isocrate,Dionysius of Halicarnassus
+297,./data/tlg0081/tlg005/tlg0081.tlg005.perseus-grc1.xml,De Isaeo,Dionysius of Halicarnassus
+298,./data/tlg0081/tlg002/tlg0081.tlg002.perseus-grc1.xml,De antiquis oratoribus,Dionysius of Halicarnassus
+299,./data/tlg0081/tlg011/tlg0081.tlg011.perseus-grc1.xml,De Thucydidis idiomatibus (epistula ad Ammaeum),Dionysius of Halicarnassus
+300,./data/tlg0081/tlg010/tlg0081.tlg010.perseus-grc1.xml,De Thucydide,Dionysius of Halicarnassus
+301,./data/tlg0086/tlg009/tlg0086.tlg009.perseus-grc1.xml,Eudemian Ethics (Greek). Machine readable text,Aristotle
+302,./data/tlg0086/tlg038/tlg0086.tlg038.perseus-grc1.xml,Rhetoric,Aristotle
+303,./data/tlg0086/tlg025/tlg0086.tlg025.perseus-grc1.xml,Metaphysics,Aristotle
+304,./data/tlg0086/tlg035/tlg0086.tlg035.perseus-grc1.xml,Politics (Greek). Machine readable text,Aristotle
+305,./data/tlg0086/tlg003/tlg0086.tlg003.perseus-grc1.xml,Athenian Constitution,Aristotle
+306,./data/tlg0086/tlg034/tlg0086.tlg034.digicorpus-grc1.xml,Ars Poetica,Aristotle
+307,./data/tlg0086/tlg045/tlg0086.tlg045.perseus-grc2.xml,Virtues and Vices,Aristotle
+308,./data/tlg0086/tlg029/tlg0086.tlg029.perseus-grc1.xml,Economics (Greek). Machine readable text,Aristotle
+309,./data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc1.xml,Nicomachean Ethics,Aristotle
+310,./data/tlg0036/tlg001/tlg0036.tlg001.perseus-grc1.xml,Epitaphius Adonis,Bion of Phlossa
+311,./data/tlg0036/tlg003/tlg0036.tlg003.perseus-grc1.xml,Fragmenta,Bion of Phlossa
+312,./data/tlg0036/tlg002/tlg0036.tlg002.perseus-grc1.xml,Epithalamium Achillis et Deidameiae,Bion of Phlossa
+313,./data/tlg2934/tlg066/tlg2934.tlg066.perseus-grc1.xml,Vita Barlaam et Joasaph,"John, of Damascus (attributed author)"
+314,./data/tlg0031/tlg009/tlg0031.tlg009.perseus-grc2.xml,New Testament - Galatians,New Testament
+315,./data/tlg0031/tlg007/tlg0031.tlg007.perseus-grc2.xml,New Testament - 1 Corinthians,New Testament
+316,./data/tlg0031/tlg001/tlg0031.tlg001.perseus-grc2.xml,New Testament - Matthew,New Testament
+317,./data/tlg0031/tlg006/tlg0031.tlg006.perseus-grc2.xml,New Testament - Romans,New Testament
+318,./data/tlg0031/tlg008/tlg0031.tlg008.perseus-grc2.xml,New Testament - 2 Corinthians,New Testament
+319,./data/tlg0031/tlg015/tlg0031.tlg015.perseus-grc2.xml,New Testament - 1 Timothy,New Testament
+320,./data/tlg0031/tlg012/tlg0031.tlg012.perseus-grc2.xml,New Testament - Colossians,New Testament
+321,./data/tlg0031/tlg024/tlg0031.tlg024.perseus-grc2.xml,New Testament - 2 John,New Testament
+322,./data/tlg0031/tlg023/tlg0031.tlg023.perseus-grc2.xml,New Testament - 1 John,New Testament
+323,./data/tlg0031/tlg022/tlg0031.tlg022.perseus-grc2.xml,New Testament - 2 Peter,New Testament
+324,./data/tlg0031/tlg025/tlg0031.tlg025.perseus-grc2.xml,New Testament - 3 John,New Testament
+325,./data/tlg0031/tlg013/tlg0031.tlg013.perseus-grc2.xml,New Testament - 1 Thessalonians,New Testament
+326,./data/tlg0031/tlg014/tlg0031.tlg014.perseus-grc2.xml,New Testament - 2 Thessalonians,New Testament
+327,./data/tlg0031/tlg003/tlg0031.tlg003.perseus-grc2.xml,New Testament - Luke,New Testament
+328,./data/tlg0031/tlg004/tlg0031.tlg004.perseus-grc2.xml,New Testament - John,New Testament
+329,./data/tlg0031/tlg005/tlg0031.tlg005.perseus-grc2.xml,New Testament - Acts,New Testament
+330,./data/tlg0031/tlg002/tlg0031.tlg002.perseus-grc2.xml,New Testament - Mark,New Testament
+331,./data/tlg0031/tlg011/tlg0031.tlg011.perseus-grc2.xml,New Testament - Philippians,New Testament
+332,./data/tlg0031/tlg016/tlg0031.tlg016.perseus-grc2.xml,New Testament - 2 Timothy,New Testament
+333,./data/tlg0031/tlg020/tlg0031.tlg020.perseus-grc2.xml,New Testament - James,New Testament
+334,./data/tlg0031/tlg027/tlg0031.tlg027.perseus-grc2.xml,New Testament - Revelation,New Testament
+335,./data/tlg0031/tlg018/tlg0031.tlg018.perseus-grc2.xml,New Testament - Philemon,New Testament
+336,./data/tlg0031/tlg026/tlg0031.tlg026.perseus-grc2.xml,New Testament - Jude,New Testament
+337,./data/tlg0031/tlg019/tlg0031.tlg019.perseus-grc2.xml,New Testament - Hebrews,New Testament
+338,./data/tlg0031/tlg021/tlg0031.tlg021.perseus-grc2.xml,New Testament - 1 Peter,New Testament
+339,./data/tlg0031/tlg017/tlg0031.tlg017.perseus-grc2.xml,New Testament - Titus,New Testament
+340,./data/tlg0031/tlg010/tlg0031.tlg010.perseus-grc2.xml,New Testament - Ephesians,New Testament
+341,./data/tlg0007/tlg118/tlg0007.tlg118.perseus-grc2.xml,Πολιτικὰ παραγγέλματα,Plutarch
+342,./data/tlg0007/tlg120/tlg0007.tlg120.perseus-grc2.xml,Περὶ τοῦ μὴ δεῖν δανείζεσθαι,Plutarch
+343,./data/tlg0007/tlg129/tlg0007.tlg129.perseus-grc2.xml,Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαῖα ἢ τὰ ἔνυδρα,Plutarch
+344,./data/tlg0007/tlg116/tlg0007.tlg116.perseus-grc2.xml,Πρὸς ἡγεμόνα ἀπαίδευτον,Plutarch
+345,./data/tlg0007/tlg111/tlg0007.tlg111.perseus-grc2.xml,Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου,Plutarch
+346,./data/tlg0007/tlg110/tlg0007.tlg110.perseus-grc2.xml,Περὶ φυγῆς,Plutarch
+347,./data/tlg0007/tlg128/tlg0007.tlg128.perseus-grc2.xml,Περὶ τοῦ πότερον ὕδωρ ἢ πῦρ χρησιμώτερον,Plutarch
+348,./data/tlg0007/tlg117/tlg0007.tlg117.perseus-grc2.xml,Εἰ πρεσβυτέρῳ πολιτευτέον,Plutarch
+349,./data/tlg0007/tlg121/tlg0007.tlg121.perseus-grc2.xml,Vitae decem oratorum,Plutarch
+350,./data/tlg0007/tlg119/tlg0007.tlg119.perseus-grc2.xml,Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας,Plutarch
+351,./data/tlg0007/tlg126/tlg0007.tlg126.perseus-grc2.xml,Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης,Plutarch
+352,./data/tlg0007/tlg054/tlg0007.tlg054.perseus-grc2.xml,Demosthenes,Plutarch
+353,./data/tlg0007/tlg053/tlg0007.tlg053.perseus-grc2.xml,Comparison of Agis and Cleomenes and the Gracchi,Plutarch
+354,./data/tlg0007/tlg098/tlg0007.tlg098.perseus-grc2.xml,Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας,Plutarch
+355,./data/tlg0007/tlg091/tlg0007.tlg091.perseus-grc2.xml,Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν,Plutarch
+356,./data/tlg0007/tlg065/tlg0007.tlg065.perseus-grc2.xml,Galba,Plutarch
+357,./data/tlg0007/tlg062/tlg0007.tlg062.perseus-grc2.xml,Comparison of Dion and Brutus,Plutarch
+358,./data/tlg0007/tlg096/tlg0007.tlg096.perseus-grc2.xml,Περὶ εὐθυμίας,Plutarch
+359,./data/tlg0007/tlg009/tlg0007.tlg009.perseus-grc2.xml,Comparison of Solon and Publicola,Plutarch
+360,./data/tlg0007/tlg036/tlg0007.tlg036.perseus-grc2.xml,Lucullus,Plutarch
+361,./data/tlg0007/tlg031/tlg0007.tlg031.perseus-grc2.xml,Caius Marius,Plutarch
+362,./data/tlg0007/tlg038/tlg0007.tlg038.perseus-grc2.xml,Nicias,Plutarch
+363,./data/tlg0007/tlg007/tlg0007.tlg007.perseus-grc2.xml,Solon,Plutarch
+364,./data/tlg0007/tlg097/tlg0007.tlg097.perseus-grc2.xml,Περὶ φιλαδελφίας,Plutarch
+365,./data/tlg0007/tlg063/tlg0007.tlg063.perseus-grc2.xml,Aratus,Plutarch
+366,./data/tlg0007/tlg064/tlg0007.tlg064.perseus-grc2.xml,Artaxerxes,Plutarch
+367,./data/tlg0007/tlg090/tlg0007.tlg090.perseus-grc2.xml,Περὶ τοῦ Ε τοῦ ἐν Δελφοῖς,Plutarch
+368,./data/tlg0007/tlg052/tlg0007.tlg052.perseus-grc1.xml,Tiberius and Caius Gracchus,Plutarch
+369,./data/tlg0007/tlg099/tlg0007.tlg099.perseus-grc2.xml,Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν,Plutarch
+370,./data/tlg0007/tlg055/tlg0007.tlg055.perseus-grc2.xml,Cicero,Plutarch
+371,./data/tlg0007/tlg001/tlg0007.tlg001.perseus-grc2.xml,Theseus,Plutarch
+372,./data/tlg0007/tlg039/tlg0007.tlg039.perseus-grc2.xml,Crassus,Plutarch
+373,./data/tlg0007/tlg006/tlg0007.tlg006.perseus-grc2.xml,Comparison of Lycurgus and Numa,Plutarch
+374,./data/tlg0007/tlg030/tlg0007.tlg030.perseus-grc2.xml,Pyrrhus,Plutarch
+375,./data/tlg0007/tlg008/tlg0007.tlg008.perseus-grc2.xml,Publicola,Plutarch
+376,./data/tlg0007/tlg037/tlg0007.tlg037.perseus-grc2.xml,Comparison of Lucullus and Cimon,Plutarch
+377,./data/tlg0007/tlg015/tlg0007.tlg015.perseus-grc2.xml,Alcibiades,Plutarch
+378,./data/tlg0007/tlg012/tlg0007.tlg012.perseus-grc2.xml,Pericles,Plutarch
+379,./data/tlg0007/tlg024/tlg0007.tlg024.perseus-grc2.xml,Machine readable text,Plutarch
+380,./data/tlg0007/tlg023/tlg0007.tlg023.perseus-grc2.xml,Comparison of Pelopidas and Marcellus,Plutarch
+381,./data/tlg0007/tlg048/tlg0007.tlg048.perseus-grc2.xml,Caesar,Plutarch
+382,./data/tlg0007/tlg077/tlg0007.tlg077.perseus-grc2.xml,Ὑγιεινὰ παραγγέλματα,Plutarch
+383,./data/tlg0007/tlg070/tlg0007.tlg070.perseus-grc2.xml,Πῶς ἄν τις διακρίνειε τὸν κόλκακα τοῦ φίλου,Plutarch
+384,./data/tlg0007/tlg079/tlg0007.tlg079.perseus-grc2.xml,Των επτά σοφών συμπόσιον,Plutarch
+385,./data/tlg0007/tlg046/tlg0007.tlg046.perseus-grc2.xml,Comparison of Agesilaus and Pompey,Plutarch
+386,./data/tlg0007/tlg041/tlg0007.tlg041.perseus-grc2.xml,Eumenes,Plutarch
+387,./data/tlg0007/tlg022/tlg0007.tlg022.perseus-grc2.xml,Marcellus,Plutarch
+388,./data/tlg0007/tlg025/tlg0007.tlg025.perseus-grc2.xml,Marcus Cato,Plutarch
+389,./data/tlg0007/tlg013/tlg0007.tlg013.perseus-grc2.xml,Fabius Maximus,Plutarch
+390,./data/tlg0007/tlg014/tlg0007.tlg014.perseus-grc2.xml,Comparison of Pericles and Fabius Maximus,Plutarch
+391,./data/tlg0007/tlg040/tlg0007.tlg040.perseus-grc2.xml,Comparison of Nicias and Crassus,Plutarch
+392,./data/tlg0007/tlg078/tlg0007.tlg078.perseus-grc2.xml,Γαμικὰ παραγγέλματα,Plutarch
+393,./data/tlg0007/tlg047/tlg0007.tlg047.perseus-grc2.xml,Alexander,Plutarch
+394,./data/tlg0007/tlg071/tlg0007.tlg071.perseus-grc2.xml,Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή,Plutarch
+395,./data/tlg0007/tlg049/tlg0007.tlg049.perseus-grc2.xml,Phocion,Plutarch
+396,./data/tlg0007/tlg076/tlg0007.tlg076.perseus-grc2.xml,Πραμυθητικὸς πρὸς Ἀπολλώνιον,Plutarch
+397,./data/tlg0007/tlg104/tlg0007.tlg104.perseus-grc2.xml,Περὶ δυσωπίας,Plutarch
+398,./data/tlg0007/tlg103/tlg0007.tlg103.perseus-grc2.xml,Περὶ φιλοπλουτίας,Plutarch
+399,./data/tlg0007/tlg135/tlg0007.tlg135.perseus-grc2.xml,Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας,Plutarch
+400,./data/tlg0007/tlg132/tlg0007.tlg132.perseus-grc2.xml,Περὶ σαρκοφαγίας λόγος β′,Plutarch
+401,./data/tlg0007/tlg133/tlg0007.tlg133.perseus-grc2.xml,Πλατωνικὰ ζητήματα,Plutarch
+402,./data/tlg0007/tlg134/tlg0007.tlg134.perseus-grc2.xml,Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας,Plutarch
+403,./data/tlg0007/tlg102/tlg0007.tlg102.perseus-grc2.xml,Περὶ πολυπραγμοσύνης,Plutarch
+404,./data/tlg0007/tlg105/tlg0007.tlg105.perseus-grc2.xml,Περὶ φθόνου καὶ μίσους,Plutarch
+405,./data/tlg0007/tlg123/tlg0007.tlg123.perseus-grc2.xml,Περὶ τῆς Ἡροδότου κακοηθείας,Plutarch
+406,./data/tlg0007/tlg112/tlg0007.tlg112.perseus-grc2.xml,Συμποσιακῶν προβλημάτων βιβλία,Plutarch
+407,./data/tlg0007/tlg115/tlg0007.tlg115.perseus-grc2.xml,Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν φιλοσοφόν διαλέγεσθαι,Plutarch
+408,./data/tlg0007/tlg141/tlg0007.tlg141.perseus-grc2.xml,Εἰ καλῶς εἴρηται τὸ λάθε βιώτας,Plutarch
+409,./data/tlg0007/tlg114/tlg0007.tlg114.perseus-grc2.xml,Ἐρωτικαὶ διηγήσεις,Plutarch
+410,./data/tlg0007/tlg113/tlg0007.tlg113.perseus-grc2.xml,Ἐρωτικός,Plutarch
+411,./data/tlg0007/tlg125/tlg0007.tlg125.perseus-grc2.xml,Αἴτια φυσικά,Plutarch
+412,./data/tlg0007/tlg122/tlg0007.tlg122.perseus-grc2.xml,Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή,Plutarch
+413,./data/tlg0007/tlg140/tlg0007.tlg140.perseus-grc2.xml,Πρὸς Κωλώτην,Plutarch
+414,./data/tlg0007/tlg032/tlg0007.tlg032.perseus-grc2.xml,Lysander,Plutarch
+415,./data/tlg0007/tlg035/tlg0007.tlg035.perseus-grc2.xml,Cimon,Plutarch
+416,./data/tlg0007/tlg003/tlg0007.tlg003.perseus-grc2.xml,Comparison of Theseus and Romulus,Plutarch
+417,./data/tlg0007/tlg004/tlg0007.tlg004.perseus-grc2.xml,Lycurgus,Plutarch
+418,./data/tlg0007/tlg050/tlg0007.tlg050.perseus-grc2.xml,Cato the Younger,Plutarch
+419,./data/tlg0007/tlg057/tlg0007.tlg057.perseus-grc2.xml,Demetrius,Plutarch
+420,./data/tlg0007/tlg068/tlg0007.tlg068.perseus-grc2.xml,Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν.,Plutarch
+421,./data/tlg0007/tlg061/tlg0007.tlg061.perseus-grc2.xml,Brutus,Plutarch
+422,./data/tlg0007/tlg095/tlg0007.tlg095.perseus-grc2.xml,Περὶ ἀοπγησίας,Plutarch
+423,./data/tlg0007/tlg092/tlg0007.tlg092.perseus-grc2.xml,Περὶ τῶν ἐκλελοιπότων,Plutarch
+424,./data/tlg0007/tlg066/tlg0007.tlg066.perseus-grc2.xml,Otho,Plutarch
+425,./data/tlg0007/tlg059/tlg0007.tlg059.perseus-grc2.xml,Comparison of Demetrius and Antony,Plutarch
+426,./data/tlg0007/tlg005/tlg0007.tlg005.perseus-grc2.xml,Numa,Plutarch
+427,./data/tlg0007/tlg002/tlg0007.tlg002.perseus-grc2.xml,Romulus,Plutarch
+428,./data/tlg0007/tlg034/tlg0007.tlg034.perseus-grc2.xml,Comparison of Lysander and Sulla,Plutarch
+429,./data/tlg0007/tlg033/tlg0007.tlg033.perseus-grc2.xml,Sulla,Plutarch
+430,./data/tlg0007/tlg067/tlg0007.tlg067.perseus-grc2.xml,Περὶ παίδων ἀγωγῆς,Plutarch
+431,./data/tlg0007/tlg093/tlg0007.tlg093.perseus-grc2.xml,Εἰ διδακτὸν ἡ ἀρετή,Plutarch
+432,./data/tlg0007/tlg058/tlg0007.tlg058.perseus-grc2.xml,Antony,Plutarch
+433,./data/tlg0007/tlg094/tlg0007.tlg094.perseus-grc2.xml,Περὶ τῆς ἠθικῆς ἀρετῆς,Plutarch
+434,./data/tlg0007/tlg060/tlg0007.tlg060.perseus-grc2.xml,Dion,Plutarch
+435,./data/tlg0007/tlg056/tlg0007.tlg056.perseus-grc2.xml,Comparison of Demosthenes with Cicero,Plutarch
+436,./data/tlg0007/tlg069/tlg0007.tlg069.perseus-grc2.xml,Περὶ τοῦ ἀκούειν,Plutarch
+437,./data/tlg0007/tlg051/tlg0007.tlg051.perseus-grc1.xml,Agis and Cleomenes,Plutarch
+438,./data/tlg0007/tlg073/tlg0007.tlg073.perseus-grc2.xml,Περί πολυφιλίας,Plutarch
+439,./data/tlg0007/tlg080/tlg0007.tlg080.perseus-grc2.xml,Περὶ δεισιδαιμονίας,Plutarch
+440,./data/tlg0007/tlg074/tlg0007.tlg074.perseus-grc2.xml,Περὶ τύχης,Plutarch
+441,./data/tlg0007/tlg089/tlg0007.tlg089.perseus-grc2.xml,Περὶ Ἴσιδος και Ὀσίριδος,Plutarch
+442,./data/tlg0007/tlg042/tlg0007.tlg042.perseus-grc2.xml,Sertorius,Plutarch
+443,./data/tlg0007/tlg045/tlg0007.tlg045.perseus-grc2.xml,Pompey,Plutarch
+444,./data/tlg0007/tlg011/tlg0007.tlg011.perseus-grc2.xml,Camillus,Plutarch
+445,./data/tlg0007/tlg016/tlg0007.tlg016.perseus-grc2.xml,Caius Marcius Coriolanus,Plutarch
+446,./data/tlg0007/tlg029/tlg0007.tlg029.perseus-grc2.xml,Comparison of Philopoemen and Titus,Plutarch
+447,./data/tlg0007/tlg020/tlg0007.tlg020.perseus-grc2.xml,Comparison of Timoleon and Aemilius,Plutarch
+448,./data/tlg0007/tlg027/tlg0007.tlg027.perseus-grc2.xml,Philopoemen,Plutarch
+449,./data/tlg0007/tlg018/tlg0007.tlg018.perseus-grc2.xml,Timoleon,Plutarch
+450,./data/tlg0007/tlg044/tlg0007.tlg044.perseus-grc2.xml,Agesilaus,Plutarch
+451,./data/tlg0007/tlg043/tlg0007.tlg043.perseus-grc2.xml,Comparison of Sertorius and Eumenes,Plutarch
+452,./data/tlg0007/tlg075/tlg0007.tlg075.perseus-grc2.xml,Περὶ ἀρετῆς καὶ κακιάς,Plutarch
+453,./data/tlg0007/tlg072/tlg0007.tlg072.perseus-grc2.xml,Πῶς ἄν τις ἀπ’ ἐχθρῶν ὠφελοῖτο,Plutarch
+454,./data/tlg0007/tlg026/tlg0007.tlg026.perseus-grc2.xml,Comparison of Aristides and Marcus Cato,Plutarch
+455,./data/tlg0007/tlg019/tlg0007.tlg019.perseus-grc2.xml,Aemilius Paulus,Plutarch
+456,./data/tlg0007/tlg021/tlg0007.tlg021.perseus-grc2.xml,Pelopidas,Plutarch
+457,./data/tlg0007/tlg017/tlg0007.tlg017.perseus-grc2.xml,Comparison of Alcibiades and Coriolanus,Plutarch
+458,./data/tlg0007/tlg028/tlg0007.tlg028.perseus-grc2.xml,Titus Flamininus,Plutarch
+459,./data/tlg0007/tlg010/tlg0007.tlg010.perseus-grc2.xml,Themistocles,Plutarch
+460,./data/tlg0007/tlg100/tlg0007.tlg100.perseus-grc2.xml,Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα,Plutarch
+461,./data/tlg0007/tlg107/tlg0007.tlg107.perseus-grc2.xml,Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων,Plutarch
+462,./data/tlg0007/tlg138/tlg0007.tlg138.perseus-grc2.xml,Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς,Plutarch
+463,./data/tlg0007/tlg131/tlg0007.tlg131.perseus-grc2.xml,Περὶ σαρκοφαγίας λόγος α′,Plutarch
+464,./data/tlg0007/tlg136/tlg0007.tlg136.perseus-grc2.xml,Περὶ Στωικῶν ἐνιγμάτων,Plutarch
+465,./data/tlg0007/tlg109/tlg0007.tlg109.perseus-grc2.xml,Περὶ τοῦ Σωκράτους δαιμονίου,Plutarch
+466,./data/tlg0007/tlg137/tlg0007.tlg137.perseus-grc2.xml,Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν ποιητῶν λέγουσι,Plutarch
+467,./data/tlg0007/tlg108/tlg0007.tlg108.perseus-grc2.xml,Περὶ εἱμαρμένης,Plutarch
+468,./data/tlg0007/tlg130/tlg0007.tlg130.perseus-grc2.xml,Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι,Plutarch
+469,./data/tlg0007/tlg106/tlg0007.tlg106.perseus-grc2.xml,Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως,Plutarch
+470,./data/tlg0007/tlg139/tlg0007.tlg139.perseus-grc2.xml,Ὅτι οὐδ' ἡδέως ζῆν ἔστι κατ' Ἐπίκουρον,Plutarch
+471,./data/tlg0007/tlg101/tlg0007.tlg101.perseus-grc2.xml,Περὶ ἀδολεσχίας,Plutarch
+472,./data/tlg0062/tlg054/tlg0062.tlg054.perseus-grc1.xml,Dipsades,Lucian
+473,./data/tlg0062/tlg053/tlg0062.tlg053.perseus-grc1.xml,Quomodo historia conscribenda sit,Lucian
+474,./data/tlg0062/tlg065/tlg0062.tlg065.perseus-grc1.xml,Navigium,Lucian
+475,./data/tlg0062/tlg062/tlg0062.tlg062.perseus-grc1.xml,Scytha,Lucian
+476,./data/tlg0062/tlg009/tlg0062.tlg009.perseus-grc1.xml,De Domo,Lucian
+477,./data/tlg0062/tlg036/tlg0062.tlg036.perseus-grc1.xml,De luctu,Lucian
+478,./data/tlg0062/tlg031/tlg0062.tlg031.perseus-grc1.xml,Philopsuedes sive incredulus,Lucian
+479,./data/tlg0062/tlg038/tlg0062.tlg038.perseus-grc1.xml,Alexander,Lucian
+480,./data/tlg0062/tlg007/tlg0062.tlg007.perseus-grc1.xml,Nigrinus,Lucian
+481,./data/tlg0062/tlg063/tlg0062.tlg063.perseus-grc1.xml,Hermotimus,Lucian
+482,./data/tlg0062/tlg064/tlg0062.tlg064.perseus-grc1.xml,Prometheus es in verbis,Lucian
+483,./data/tlg0062/tlg052/tlg0062.tlg052.perseus-grc1.xml,Abdicatus,Lucian
+484,./data/tlg0062/tlg055/tlg0062.tlg055.perseus-grc1.xml,Saturnalia,Lucian
+485,./data/tlg0062/tlg001/tlg0062.tlg001.perseus-grc1.xml,Phalaris,Lucian
+486,./data/tlg0062/tlg039/tlg0062.tlg039.perseus-grc1.xml,Imagines,Lucian
+487,./data/tlg0062/tlg006/tlg0062.tlg006.perseus-grc1.xml,Muscae Encomium,Lucian
+488,./data/tlg0062/tlg030/tlg0062.tlg030.perseus-grc1.xml,De parasito sive artem esse parasiticam,Lucian
+489,./data/tlg0062/tlg008/tlg0062.tlg008.perseus-grc1.xml,Demonax,Lucian
+490,./data/tlg0062/tlg037/tlg0062.tlg037.perseus-grc1.xml,Rhetorum praeceptor,Lucian
+491,./data/tlg0062/tlg015/tlg0062.tlg015.perseus-grc1.xml,Symposium,Lucian
+492,./data/tlg0062/tlg012/tlg0062.tlg012.perseus-grc1.xml,Verae Historiae,Lucian
+493,./data/tlg0062/tlg024/tlg0062.tlg024.perseus-grc1.xml,Vitarum auctio,Lucian
+494,./data/tlg0062/tlg023/tlg0062.tlg023.perseus-grc1.xml,Contemplantes,Lucian
+495,./data/tlg0062/tlg048/tlg0062.tlg048.perseus-grc1.xml,De astrologia,Lucian
+496,./data/tlg0062/tlg070/tlg0062.tlg070.perseus-grc1.xml,Soleocista,Lucian
+497,./data/tlg0062/tlg046/tlg0062.tlg046.perseus-grc1.xml,Lexiphanes,Lucian
+498,./data/tlg0062/tlg041/tlg0062.tlg041.perseus-grc1.xml,De Syria dea,Lucian
+499,./data/tlg0062/tlg022/tlg0062.tlg022.perseus-grc1.xml,Timon,Lucian
+500,./data/tlg0062/tlg025/tlg0062.tlg025.perseus-grc1.xml,Piscator,Lucian
+501,./data/tlg0062/tlg013/tlg0062.tlg013.perseus-grc1.xml,Calumniae non temere credundum,Lucian
+502,./data/tlg0062/tlg014/tlg0062.tlg014.perseus-grc1.xml,Judicium vocalium,Lucian
+503,./data/tlg0062/tlg040/tlg0062.tlg040.perseus-grc1.xml,Pro imaginibus,Lucian
+504,./data/tlg0062/tlg047/tlg0062.tlg047.perseus-grc1.xml,Eunuchus,Lucian
+505,./data/tlg0062/tlg071/tlg0062.tlg071.perseus-grc1.xml,Podagra,Lucian
+506,./data/tlg0062/tlg049/tlg0062.tlg049.perseus-grc1.xml,Pseudologista,Lucian
+507,./data/tlg0062/tlg032/tlg0062.tlg032.perseus-grc1.xml,Dearum judicium,Lucian
+508,./data/tlg0062/tlg035/tlg0062.tlg035.perseus-grc1.xml,Necyomantia,Lucian
+509,./data/tlg0062/tlg003/tlg0062.tlg003.perseus-grc1.xml,Bacchus,Lucian
+510,./data/tlg0062/tlg004/tlg0062.tlg004.perseus-grc1.xml,Hercules,Lucian
+511,./data/tlg0062/tlg050/tlg0062.tlg050.perseus-grc1.xml,Deorum concilium,Lucian
+512,./data/tlg0062/tlg057/tlg0062.tlg057.perseus-grc1.xml,Zeuxis,Lucian
+513,./data/tlg0062/tlg068/tlg0062.tlg068.perseus-grc1.xml,Dialogi deorum,Lucian
+514,./data/tlg0062/tlg061/tlg0062.tlg061.perseus-grc1.xml,Hesiod,Lucian
+515,./data/tlg0062/tlg066/tlg0062.tlg066.perseus-grc1.xml,Dialogi mortuorum,Lucian
+516,./data/tlg0062/tlg059/tlg0062.tlg059.perseus-grc1.xml,Apologia,Lucian
+517,./data/tlg0062/tlg005/tlg0062.tlg005.perseus-grc1.xml,Electrum,Lucian
+518,./data/tlg0062/tlg002/tlg0062.tlg002.perseus-grc1.xml,Hippias,Lucian
+519,./data/tlg0062/tlg034/tlg0062.tlg034.perseus-grc1.xml,Anacharsis,Lucian
+520,./data/tlg0062/tlg033/tlg0062.tlg033.perseus-grc1.xml,De mercede,Lucian
+521,./data/tlg0062/tlg067/tlg0062.tlg067.perseus-grc1.xml,Dialogi Marini,Lucian
+522,./data/tlg0062/tlg058/tlg0062.tlg058.perseus-grc1.xml,Pro lapsu inter salutandum,Lucian
+523,./data/tlg0062/tlg060/tlg0062.tlg060.perseus-grc1.xml,Harmonides,Lucian
+524,./data/tlg0062/tlg056/tlg0062.tlg056.perseus-grc1.xml,Herodotus,Lucian
+525,./data/tlg0062/tlg069/tlg0062.tlg069.perseus-grc1.xml,Dialogi meretricii,Lucian
+526,./data/tlg0062/tlg051/tlg0062.tlg051.perseus-grc1.xml,Tyrannicida,Lucian
+527,./data/tlg0062/tlg042/tlg0062.tlg042.perseus-grc1.xml,De morte Peregrini,Lucian
+528,./data/tlg0062/tlg045/tlg0062.tlg045.perseus-grc1.xml,De saltatione,Lucian
+529,./data/tlg0062/tlg011/tlg0062.tlg011.perseus-grc1.xml,Macrobii,Lucian
+530,./data/tlg0062/tlg016/tlg0062.tlg016.perseus-grc1.xml,Cataplus,Lucian
+531,./data/tlg0062/tlg029/tlg0062.tlg029.perseus-grc1.xml,Somnium sive vita Luciani,Lucian
+532,./data/tlg0062/tlg020/tlg0062.tlg020.perseus-grc1.xml,Prometheus,Lucian
+533,./data/tlg0062/tlg027/tlg0062.tlg027.perseus-grc2.xml,De sacrificiis,Lucian
+534,./data/tlg0062/tlg027/tlg0062.tlg027.perseus-grc1.xml,De sacrificiis,Lucian
+535,./data/tlg0062/tlg018/tlg0062.tlg018.perseus-grc1.xml,Juppiter trageodeus,Lucian
+536,./data/tlg0062/tlg044/tlg0062.tlg044.perseus-grc1.xml,Toxaris vel amicitia,Lucian
+537,./data/tlg0062/tlg043/tlg0062.tlg043.perseus-grc1.xml,Fugitivi,Lucian
+538,./data/tlg0062/tlg026/tlg0062.tlg026.perseus-grc1.xml,Bis accusatus sive tribunalia,Lucian
+539,./data/tlg0062/tlg019/tlg0062.tlg019.perseus-grc1.xml,Gallus,Lucian
+540,./data/tlg0062/tlg021/tlg0062.tlg021.perseus-grc1.xml,Icaromenippus,Lucian
+541,./data/tlg0062/tlg017/tlg0062.tlg017.perseus-grc1.xml,Juppiter confuatus,Lucian
+542,./data/tlg0062/tlg028/tlg0062.tlg028.perseus-grc1.xml,Adversus indoctum et libros multos ementem,Lucian
+543,./data/tlg0062/tlg010/tlg0062.tlg010.perseus-grc1.xml,Patriae Encomium,Lucian
+544,./data/tlg0001/tlg001/tlg0001.tlg001.perseus-grc2.xml,Argonautica,Apollonius Rhodius
+545,./data/tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml,Ἡρακλῆς,Euripides
+546,./data/tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml,Ἑκάβη,Euripides
+547,./data/tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml,Κύκλωψ,Euripides
+548,./data/tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml,Ἀνδρομάχη,Euripides
+549,./data/tlg0006/tlg008/tlg0006.tlg008.perseus-grc2.xml,Ἱκέτιδες,Euripides
+550,./data/tlg0006/tlg015/tlg0006.tlg015.perseus-grc2.xml,Φοίνισσαι,Euripides
+551,./data/tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml,Ἠλέκτρα,Euripides
+552,./data/tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml,Ἰφιγένεια ἐν Ταύροις,Euripides
+553,./data/tlg0006/tlg014/tlg0006.tlg014.perseus-grc2.xml,Ἑλένη,Euripides
+554,./data/tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml,Μήδεια,Euripides
+555,./data/tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml,Ἡρακλεῖδαι,Euripides
+556,./data/tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml,Ἱππόλυτος,Euripides
+557,./data/tlg0006/tlg002/tlg0006.tlg002.perseus-grc2.xml,Ἄλκηστις,Euripides
+558,./data/tlg0006/tlg011/tlg0006.tlg011.perseus-grc2.xml,Τρῳάδες,Euripides
+559,./data/tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml,Ὀρέστης,Euripides
+560,./data/tlg0006/tlg018/tlg0006.tlg018.perseus-grc2.xml,Ἰφιγένεια ἐν Αὐλίδι,Euripides
+561,./data/tlg0006/tlg019/tlg0006.tlg019.perseus-grc2.xml,Ῥῆσος,Euripides
+562,./data/tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml,Βάκχαι,Euripides
+563,./data/tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml,Ἴων,Euripides
+564,./data/tlg4036/tlg023/tlg4036.tlg023.cypria-grc1.xml,Chrestomathy,Proclus
+565,./data/tlg0030/tlg001/tlg0030.tlg001.perseus-grc1.xml,In Defence of Lycophron ,Hyperides
+566,./data/tlg0030/tlg006/tlg0030.tlg006.perseus-grc1.xml,Funeral Speech ,Hyperides
+567,./data/tlg0030/tlg003/tlg0030.tlg003.perseus-grc1.xml,Against Athenogenes ,Hyperides
+568,./data/tlg0030/tlg004/tlg0030.tlg004.perseus-grc1.xml,In Defence of Euxenippus ,Hyperides
+569,./data/tlg0030/tlg005/tlg0030.tlg005.perseus-grc1.xml,Against Demosthenes ,Hyperides
+570,./data/tlg0030/tlg002/tlg0030.tlg002.perseus-grc1.xml,Against Philippides,Hyperides
+571,./data/tlg0090/tlg001/tlg0090.tlg001.opp-grc1.xml,Geographiae Informatio,Agathemerus
+572,./data/tlg0099/tlg001/tlg0099.tlg001.perseus-grc2.xml,Geography,Strabo
+573,./data/tlg0099/tlg001/tlg0099.tlg001.perseus-grc1.xml,Geography (Greek). Machine readable text,Strabo
+574,./data/tlg4091/tlg001/tlg4091.tlg001.perseus-grc1.xml,Statuaram Descriptiones,Callistratus
+575,./data/tlg0543/tlg001/tlg0543.tlg001.perseus-grc2.xml,Histories,Polybius
+576,./data/tlg0526/tlg001/tlg0526.tlg001.perseus-grc1.xml,Antiquitates Judaicae,Flavius Josephus
+577,./data/tlg0526/tlg003/tlg0526.tlg003.perseus-grc1.xml,Contra Apionem,Flavius Josephus
+578,./data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc1.xml,De bello Judaico libri vii,Flavius Josephus
+579,./data/tlg0526/tlg002/tlg0526.tlg002.perseus-grc1.xml,Josephi vita,Flavius Josephus
+580,./data/tlg0341/tlg002/tlg0341.tlg002.perseus-grc1.xml,Alexandra,Lycophron
+581,./data/tlg0545/tlg001/tlg0545.tlg001.perseus-grc1.xml,De Natura Animalium,Aelian
+582,./data/tlg0545/tlg003/tlg0545.tlg003.perseus-grc1.xml,Epistulae Rusticae,Aelian
+583,./data/tlg0545/tlg002/tlg0545.tlg002.perseus-grc1.xml,Varia Historia,Aelian
+584,./data/tlg2018/tlg002/tlg2018.tlg002.perseus-grc1.xml,Historia ecclesiastica,Eusebius of Caesarea
+585,./data/tlg0385/tlg001/tlg0385.tlg001.perseus-grc1.xml,Historiae Romanae,Cassius Dio Cocceianus
+586,./data/tlg2045/tlg001/tlg2045.tlg001.perseus-grc1.xml,Dionysiaca,Nonnus of Panopolis
+587,./data/tlg0533/tlg015/tlg0533.tlg015.perseus-grc1.xml,Hymn to Zeus,Callimachus
+588,./data/tlg0533/tlg015/tlg0533.tlg015.perseus-grc2.xml,Hymn to Zeus,Callimachus
+589,./data/tlg0533/tlg003/tlg0533.tlg003.perseus-grc1.xml,Epigrams,Callimachus
+590,./data/tlg0533/tlg004/tlg0533.tlg004.perseus-grc1.xml,"Epigrams, Fragmenta",Callimachus
+591,./data/tlg0533/tlg016/tlg0533.tlg016.perseus-grc2.xml,Hymn to Apollo,Callimachus
+592,./data/tlg0533/tlg016/tlg0533.tlg016.perseus-grc1.xml,Hymn to Apollo,Callimachus
+593,./data/tlg0533/tlg020/tlg0533.tlg020.perseus-grc2.xml,Hymn to Demeter,Callimachus
+594,./data/tlg0533/tlg020/tlg0533.tlg020.perseus-grc1.xml,Hymn to Demeter,Callimachus
+595,./data/tlg0533/tlg018/tlg0533.tlg018.perseus-grc2.xml,Hymn to Delos,Callimachus
+596,./data/tlg0533/tlg018/tlg0533.tlg018.perseus-grc1.xml,Hymn to Delos,Callimachus
+597,./data/tlg0533/tlg019/tlg0533.tlg019.perseus-grc2.xml,Hymn to Athena,Callimachus
+598,./data/tlg0533/tlg019/tlg0533.tlg019.perseus-grc1.xml,Hymn to Athena,Callimachus
+599,./data/tlg0533/tlg017/tlg0533.tlg017.perseus-grc2.xml,Hymn to Artemis,Callimachus
+600,./data/tlg0533/tlg017/tlg0533.tlg017.perseus-grc1.xml,Hymn to Artemis,Callimachus
+601,./data/tlg0560/tlg001/tlg0560.tlg001.perseus-grc1.xml,De Sublimitate,Longinus
+602,./data/tlg0560/tlg001/tlg0560.tlg001.perseus-grc2.xml,Περὶ ὕψους,Longinus
+603,./data/tlg0551/tlg009/tlg0551.tlg009.perseus-grc2.xml,Λιβυκή,Appian
+604,./data/tlg0551/tlg007/tlg0551.tlg007.perseus-grc2.xml,Ιβηρική,Appian
+605,./data/tlg0551/tlg006/tlg0551.tlg006.perseus-grc2.xml,ἐκ τῆς Σικελῖκης καὶ νησιωτικής,Appian
+606,./data/tlg0551/tlg008/tlg0551.tlg008.perseus-grc2.xml,Ἀννιβαϊκή,Appian
+607,./data/tlg0551/tlg012/tlg0551.tlg012.perseus-grc2.xml,Ἰλλυρική,Appian
+608,./data/tlg0551/tlg013/tlg0551.tlg013.perseus-grc2.xml,Συριακή,Appian
+609,./data/tlg0551/tlg014/tlg0551.tlg014.perseus-grc2.xml,Μιθριδάτειος,Appian
+610,./data/tlg0551/tlg003/tlg0551.tlg003.perseus-grc2.xml,ἐκ τῆς Ἰταλικῆς,Appian
+611,./data/tlg0551/tlg004/tlg0551.tlg004.perseus-grc2.xml,ἐκ τῆς Σαυνιτικῆς,Appian
+612,./data/tlg0551/tlg005/tlg0551.tlg005.perseus-grc2.xml,ἐκ τῆς Κελτῖκης,Appian
+613,./data/tlg0551/tlg002/tlg0551.tlg002.perseus-grc2.xml,ἐκ τῆς βασιλικῆς,Appian
+614,./data/tlg0551/tlg011/tlg0551.tlg011.perseus-grc2.xml,ἐκ τῆς Μακεδονικῆς,Appian
+615,./data/tlg0551/tlg017/tlg0551.tlg017.perseus-grc2.xml,Ἐμφυλίων Πρώτη,Appian
+616,./data/tlg0551/tlg010/tlg0551.tlg010.perseus-grc2.xml,ἐκ τῆς Νομαδικῆς,Appian
+617,./data/tlg0556/tlg001/tlg0556.tlg001.perseus-grc1.xml,Tactica,Asclepiodotus
+618,./data/tlg0535/tlg001/tlg0535.tlg001.perseus-grc1.xml,On the Twelve Years ,Demades
+619,./data/tlg0363/tlg007/tlg0363.tlg007.perseus-grc1.xml,Tetrabiblos,Claudius Ptolemy
+620,./data/tlg0532/tlg001/tlg0532.tlg001.perseus-grc1.xml,Leucippe et Clitophon,Achilles Tatius
+621,./data/tlg0557/tlg001/tlg0557.tlg001.perseus-grc2.xml,Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν,Epictetus
+622,./data/tlg0557/tlg003/tlg0557.tlg003.perseus-grc1.xml,Fragmenta,Epictetus
+623,./data/tlg0557/tlg002/tlg0557.tlg002.perseus-grc2.xml,Ἐγχειρίδιον,Epictetus
+624,./data/tlg1216/tlg001/tlg1216.tlg001.perseus-grc2.xml,Βαρνάβα ἐπιστολή,Barnabas
+625,./data/tlg2003/tlg009/tlg2003.tlg009.perseus-grc1.xml,To the Uneducated Cynics,Julian the Emperor
+626,./data/tlg2003/tlg007/tlg2003.tlg007.perseus-grc1.xml,To the Cynic Heracleios,Julian the Emperor
+627,./data/tlg2003/tlg001/tlg2003.tlg001.perseus-grc1.xml,Panegyric in Honor of the Emperor Constantinus,Julian the Emperor
+628,./data/tlg2003/tlg006/tlg2003.tlg006.perseus-grc1.xml,Epistula ad Themistium,Julian the Emperor
+629,./data/tlg2003/tlg008/tlg2003.tlg008.perseus-grc1.xml,Hymn to the Mother of the Gods,Julian the Emperor
+630,./data/tlg2003/tlg012/tlg2003.tlg012.perseus-grc1.xml,Misopogon,Julian the Emperor
+631,./data/tlg2003/tlg013/tlg2003.tlg013.perseus-grc1.xml,Epistulae,Julian the Emperor
+632,./data/tlg2003/tlg003/tlg2003.tlg003.perseus-grc1.xml,"The Heroic Deeds of the Emperor Constantius, or on Kingship",Julian the Emperor
+633,./data/tlg2003/tlg004/tlg2003.tlg004.perseus-grc1.xml,A Consolation to Himself Upon the Departure of the Excellent Sallust,Julian the Emperor
+634,./data/tlg2003/tlg005/tlg2003.tlg005.perseus-grc1.xml,Letter to the Senate and the People of Athens,Julian the Emperor
+635,./data/tlg2003/tlg002/tlg2003.tlg002.perseus-grc1.xml,Panegyric on the Empress Eusebia,Julian the Emperor
+636,./data/tlg2003/tlg011/tlg2003.tlg011.perseus-grc1.xml,Hymn to King Helios Dedicated to Sallust,Julian the Emperor
+637,./data/tlg2003/tlg017/tlg2003.tlg017.perseus-grc1.xml,Contra Galilaeos,Julian the Emperor
+638,./data/tlg2003/tlg010/tlg2003.tlg010.perseus-grc1.xml,The Caesars,Julian the Emperor
+639,./data/tlg0561/tlg001/tlg0561.tlg001.perseus-grc2.xml,Daphnis and Chloe,Longus
+640,./data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml,Ἰλιάς,Homer
+641,./data/tlg0012/tlg003/tlg0012.tlg003.perseus-grc1.xml,Ἐπιγράμματα,Homer
+642,./data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml,Ὀδύσσεια,Homer
+643,./data/tlg0024/tlg001/tlg0024.tlg001.perseus-grc1.xml,Cynegetica,Oppian of Apamea
+644,./data/tlg0023/tlg001/tlg0023.tlg001.perseus-grc2.xml,Halieutica,Oppian
+645,./data/tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml,Eumenides,Aeschylus
+646,./data/tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml,Ἱκέτιδες,Aeschylus
+647,./data/tlg0085/tlg006/tlg0085.tlg006.perseus-grc2.xml,Libation Bearers,Aeschylus
+648,./data/tlg0085/tlg003/tlg0085.tlg003.perseus-grc2.xml,Prometheus Bound,Aeschylus
+649,./data/tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml,Seven Against Thebes,Aeschylus
+650,./data/tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml,Agamemnon,Aeschylus
+651,./data/tlg0085/tlg002/tlg0085.tlg002.perseus-grc2.xml,Persians,Aeschylus
+652,./data/tlg0627/tlg009/tlg0627.tlg009.perseus-grc1.xml,On Fractures ,Hippocrates
+653,./data/tlg0627/tlg007/tlg0627.tlg007.perseus-grc1.xml,On Injuries of the Head,Hippocrates
+654,./data/tlg0627/tlg001/tlg0627.tlg001.perseus-grc1.xml,On Ancient Medicine,Hippocrates
+655,./data/tlg0627/tlg006/tlg0627.tlg006.perseus-grc1.xml,Of the Epidemics ,Hippocrates
+656,./data/tlg0627/tlg030/tlg0627.tlg030.perseus-grc1.xml,On Fistulae ,Hippocrates
+657,./data/tlg0627/tlg008/tlg0627.tlg008.perseus-grc1.xml,De officina medici ,Hippocrates
+658,./data/tlg0627/tlg012/tlg0627.tlg012.perseus-grc1.xml,Aphorisms ,Hippocrates
+659,./data/tlg0627/tlg046/tlg0627.tlg046.perseus-grc1.xml,De alimento ,Hippocrates
+660,./data/tlg0627/tlg013/tlg0627.tlg013.perseus-grc1.xml,The Oath ,Hippocrates
+661,./data/tlg0627/tlg003/tlg0627.tlg003.perseus-grc1.xml,The Book of Prognostics ,Hippocrates
+662,./data/tlg0627/tlg004/tlg0627.tlg004.perseus-grc1.xml,On Regimen in Acute Diseases ,Hippocrates
+663,./data/tlg0627/tlg005/tlg0627.tlg005.perseus-grc1.xml,Acut. sp. ,Hippocrates
+664,./data/tlg0627/tlg002/tlg0627.tlg002.perseus-grc1.xml,De aere aquis et locis ,Hippocrates
+665,./data/tlg0627/tlg051/tlg0627.tlg051.perseus-grc1.xml,Precepts ,Hippocrates
+666,./data/tlg0627/tlg011/tlg0627.tlg011.perseus-grc1.xml,Mochlicus or Instruments of Reduction ,Hippocrates
+667,./data/tlg0627/tlg029/tlg0627.tlg029.perseus-grc1.xml,On Hemorrhoids ,Hippocrates
+668,./data/tlg0627/tlg027/tlg0627.tlg027.perseus-grc1.xml,On the Sacred Disease ,Hippocrates
+669,./data/tlg0627/tlg028/tlg0627.tlg028.perseus-grc1.xml,On Ulcers ,Hippocrates
+670,./data/tlg0627/tlg010/tlg0627.tlg010.perseus-grc1.xml,On the Articulations ,Hippocrates
+671,./data/tlg1799/tlg001/tlg1799.tlg001.perseus-grc2.xml,Elementa,Euclid
+672,./data/tlg0013/tlg009/tlg0013.tlg009.perseus-grc2.xml,Hymn 9 To Artemis,Anonymous
+673,./data/tlg0013/tlg031/tlg0013.tlg031.perseus-grc2.xml,Hymn 31 To Helios,Anonymous
+674,./data/tlg0013/tlg007/tlg0013.tlg007.perseus-grc2.xml,Hymn 7 To Dionysus,Anonymous
+675,./data/tlg0013/tlg001/tlg0013.tlg001.perseus-grc2.xml,Hymn 1 To Dionysus,Anonymous
+676,./data/tlg0013/tlg006/tlg0013.tlg006.perseus-grc2.xml,Hymn 6 To Aphrodite,Anonymous
+677,./data/tlg0013/tlg030/tlg0013.tlg030.perseus-grc2.xml,Hymn 30 To Earth,Anonymous
+678,./data/tlg0013/tlg008/tlg0013.tlg008.perseus-grc2.xml,Hymn 8 To Ares,Anonymous
+679,./data/tlg0013/tlg015/tlg0013.tlg015.perseus-grc2.xml,Hymn 15 To Heracles the Lion-Hearted,Anonymous
+680,./data/tlg0013/tlg012/tlg0013.tlg012.perseus-grc2.xml,Hymn 12 To Hera,Anonymous
+681,./data/tlg0013/tlg024/tlg0013.tlg024.perseus-grc2.xml,Hymn 24 To Hestia,Anonymous
+682,./data/tlg0013/tlg023/tlg0013.tlg023.perseus-grc2.xml,Hymn 23 to Zeus,Anonymous
+683,./data/tlg0013/tlg022/tlg0013.tlg022.perseus-grc2.xml,Hymn 22 To Poseidon,Anonymous
+684,./data/tlg0013/tlg025/tlg0013.tlg025.perseus-grc2.xml,Hymn 25 To the Muses and Apollo,Anonymous
+685,./data/tlg0013/tlg013/tlg0013.tlg013.perseus-grc2.xml,Hymn 13 To Demeter,Anonymous
+686,./data/tlg0013/tlg014/tlg0013.tlg014.perseus-grc2.xml,Hymn 14 to the Mother of the Gods,Anonymous
+687,./data/tlg0013/tlg032/tlg0013.tlg032.perseus-grc2.xml,Hymn 32 To Selene,Anonymous
+688,./data/tlg0013/tlg003/tlg0013.tlg003.perseus-grc2.xml,Hymn 3 To Apollo,Anonymous
+689,./data/tlg0013/tlg004/tlg0013.tlg004.perseus-grc2.xml,Hymn 4 To Hermes,Anonymous
+690,./data/tlg0013/tlg005/tlg0013.tlg005.perseus-grc2.xml,Hymn 5 To Aphrodite,Anonymous
+691,./data/tlg0013/tlg002/tlg0013.tlg002.perseus-grc2.xml,Hymn 2 To Demeter,Anonymous
+692,./data/tlg0013/tlg033/tlg0013.tlg033.perseus-grc2.xml,Hymn 33 To the Dioscuri,Anonymous
+693,./data/tlg0013/tlg011/tlg0013.tlg011.perseus-grc2.xml,Hymn 11 To Athena,Anonymous
+694,./data/tlg0013/tlg016/tlg0013.tlg016.perseus-grc2.xml,Hymn 16 To Asclepius,Anonymous
+695,./data/tlg0013/tlg029/tlg0013.tlg029.perseus-grc2.xml,Hymn 29 To Hestia,Anonymous
+696,./data/tlg0013/tlg020/tlg0013.tlg020.perseus-grc2.xml,Hymn 20 To Hephaestus,Anonymous
+697,./data/tlg0013/tlg027/tlg0013.tlg027.perseus-grc2.xml,Hymn 27 To Artemis,Anonymous
+698,./data/tlg0013/tlg018/tlg0013.tlg018.perseus-grc2.xml,Hymn 18 To Hermes,Anonymous
+699,./data/tlg0013/tlg026/tlg0013.tlg026.perseus-grc2.xml,Hymn 26 To Dionysus,Anonymous
+700,./data/tlg0013/tlg019/tlg0013.tlg019.perseus-grc2.xml,Hymn 19 to Pan,Anonymous
+701,./data/tlg0013/tlg021/tlg0013.tlg021.perseus-grc2.xml,Hymn 21 To Apollo,Anonymous
+702,./data/tlg0013/tlg017/tlg0013.tlg017.perseus-grc2.xml,Hymn 17 To the Dioscuri,Anonymous
+703,./data/tlg0013/tlg028/tlg0013.tlg028.perseus-grc2.xml,Hymn 28 To Athena ,Anonymous
+704,./data/tlg0013/tlg010/tlg0013.tlg010.perseus-grc2.xml,Hymn 10 To Aphrodite,Anonymous
+705,./data/tlg0014/tlg054/tlg0014.tlg054.perseus-grc2.xml,κατὰ Κόνωνος αἰκείας,Demosthenes
+706,./data/tlg0014/tlg053/tlg0014.tlg053.perseus-grc2.xml,πρὸς Νικόστρατον περὶ ἀνδραπόδων ἀπογραφῆς Ἀρεθουσίου,Demosthenes
+707,./data/tlg0014/tlg062/tlg0014.tlg062.perseus-grc2.xml,προοίμια δημηγορικά,Demosthenes
+708,./data/tlg0014/tlg009/tlg0014.tlg009.perseus-grc2.xml,κατὰ Φιλίππου γ΄,Demosthenes
+709,./data/tlg0014/tlg036/tlg0014.tlg036.perseus-grc2.xml,παραγραφὴ ὑπὲρ Φορμίωνος,Demosthenes
+710,./data/tlg0014/tlg031/tlg0014.tlg031.perseus-grc2.xml,πρὸς Ὀνήτορα ἐξούλης β΄,Demosthenes
+711,./data/tlg0014/tlg038/tlg0014.tlg038.perseus-grc2.xml,παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην,Demosthenes
+712,./data/tlg0014/tlg007/tlg0014.tlg007.perseus-grc2.xml,περὶ Ἀλοννήσου,Demosthenes
+713,./data/tlg0014/tlg063/tlg0014.tlg063.perseus-grc2.xml,Δημοσθένους ἐπιστολαὶ,Demosthenes
+714,./data/tlg0014/tlg052/tlg0014.tlg052.perseus-grc2.xml,πρὸς Κάλλιππον,Demosthenes
+715,./data/tlg0014/tlg055/tlg0014.tlg055.perseus-grc2.xml,πρὸς Καλλικλέα περὶ χωρίου βλάβης,Demosthenes
+716,./data/tlg0014/tlg001/tlg0014.tlg001.perseus-grc2.xml,Ὀλυνθιακὸς α΄,Demosthenes
+717,./data/tlg0014/tlg039/tlg0014.tlg039.perseus-grc2.xml,πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος,Demosthenes
+718,./data/tlg0014/tlg006/tlg0014.tlg006.perseus-grc2.xml,κατὰ Φιλίππου β΄,Demosthenes
+719,./data/tlg0014/tlg030/tlg0014.tlg030.perseus-grc2.xml,πρὸς Ὀνήτορα ἐξούλης α΄,Demosthenes
+720,./data/tlg0014/tlg008/tlg0014.tlg008.perseus-grc2.xml,περὶ τῶν ἐν Χερρονήσῳ,Demosthenes
+721,./data/tlg0014/tlg037/tlg0014.tlg037.perseus-grc2.xml,παραγραφὴ πρὸς Πανταίνετον,Demosthenes
+722,./data/tlg0014/tlg015/tlg0014.tlg015.perseus-grc2.xml,ὑπὲρ τῆς Ῥοδίων ἐλευθερίας,Demosthenes
+723,./data/tlg0014/tlg012/tlg0014.tlg012.perseus-grc2.xml,ἐπιστολή [Φιλίππου],Demosthenes
+724,./data/tlg0014/tlg024/tlg0014.tlg024.perseus-grc2.xml,κατὰ Τιμοκράτους,Demosthenes
+725,./data/tlg0014/tlg023/tlg0014.tlg023.perseus-grc2.xml,κατὰ Ἀριστοκράτους,Demosthenes
+726,./data/tlg0014/tlg048/tlg0014.tlg048.perseus-grc2.xml,κατὰ Ὀλυμπιοδώρου βλάβης,Demosthenes
+727,./data/tlg0014/tlg046/tlg0014.tlg046.perseus-grc2.xml,κατὰ Στεφάνου ψευδομαρτυριῶν β΄,Demosthenes
+728,./data/tlg0014/tlg041/tlg0014.tlg041.perseus-grc2.xml,πρὸς Σπουδίαν ὑπὲρ προικός,Demosthenes
+729,./data/tlg0014/tlg022/tlg0014.tlg022.perseus-grc2.xml,κατὰ Ἀνδροτίωνος παρανόμων,Demosthenes
+730,./data/tlg0014/tlg025/tlg0014.tlg025.perseus-grc2.xml,κατὰ Ἀριστογείτονος α΄,Demosthenes
+731,./data/tlg0014/tlg013/tlg0014.tlg013.perseus-grc2.xml,περὶ συντάξεως,Demosthenes
+732,./data/tlg0014/tlg014/tlg0014.tlg014.perseus-grc2.xml,περὶ τῶν συμμοριῶν,Demosthenes
+733,./data/tlg0014/tlg040/tlg0014.tlg040.perseus-grc2.xml,πρὸς Βοιωτὸν περὶ προικὸς μητρῴας,Demosthenes
+734,./data/tlg0014/tlg047/tlg0014.tlg047.perseus-grc2.xml,κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν,Demosthenes
+735,./data/tlg0014/tlg049/tlg0014.tlg049.perseus-grc2.xml,πρὸς Τιμόθεον ὑπὲρ χρέως,Demosthenes
+736,./data/tlg0014/tlg032/tlg0014.tlg032.perseus-grc2.xml,πρὸς Ζηνόθεμιν παραγραφή,Demosthenes
+737,./data/tlg0014/tlg035/tlg0014.tlg035.perseus-grc2.xml,πρὸς τὴν Λάκριτον παραγραφὴν,Demosthenes
+738,./data/tlg0014/tlg003/tlg0014.tlg003.perseus-grc2.xml,Ὀλυνθιακὸς γ΄,Demosthenes
+739,./data/tlg0014/tlg004/tlg0014.tlg004.perseus-grc2.xml,κατὰ Φιλίππου α΄,Demosthenes
+740,./data/tlg0014/tlg050/tlg0014.tlg050.perseus-grc2.xml,πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος,Demosthenes
+741,./data/tlg0014/tlg057/tlg0014.tlg057.perseus-grc2.xml,ἔφεσις πρὸς Εὐβουλίδην,Demosthenes
+742,./data/tlg0014/tlg061/tlg0014.tlg061.perseus-grc2.xml,ἐρωτικὸς,Demosthenes
+743,./data/tlg0014/tlg059/tlg0014.tlg059.perseus-grc2.xml,κατὰ Νεαίρας,Demosthenes
+744,./data/tlg0014/tlg005/tlg0014.tlg005.perseus-grc2.xml,περὶ τῆς εἰρήνης,Demosthenes
+745,./data/tlg0014/tlg002/tlg0014.tlg002.perseus-grc2.xml,Ὀλυνθιακὸς β΄,Demosthenes
+746,./data/tlg0014/tlg034/tlg0014.tlg034.perseus-grc2.xml,πρὸς Φορμίωνα ὑπὲρ δανείου,Demosthenes
+747,./data/tlg0014/tlg033/tlg0014.tlg033.perseus-grc2.xml,πρὸς Ἀπατούριον παραγραφή,Demosthenes
+748,./data/tlg0014/tlg058/tlg0014.tlg058.perseus-grc2.xml,ἔνδειξις κατὰ Θεοκρίνου,Demosthenes
+749,./data/tlg0014/tlg060/tlg0014.tlg060.perseus-grc2.xml,ἐπιτάφιος,Demosthenes
+750,./data/tlg0014/tlg056/tlg0014.tlg056.perseus-grc2.xml,κατὰ Διονυσοδώρου βλάβης,Demosthenes
+751,./data/tlg0014/tlg051/tlg0014.tlg051.perseus-grc2.xml,περὶ τοῦ Στεφάνου τῆς τριηραρκίας,Demosthenes
+752,./data/tlg0014/tlg042/tlg0014.tlg042.perseus-grc2.xml,πρὸς Φαίνιππον περὶ ἀντιδόσεως,Demosthenes
+753,./data/tlg0014/tlg045/tlg0014.tlg045.perseus-grc2.xml,κατὰ Στεφάνου ψευδομαρτυριῶν α΄,Demosthenes
+754,./data/tlg0014/tlg011/tlg0014.tlg011.perseus-grc2.xml,πρὸς τὴν ἐπιστολήν τὴν Φιλίππου,Demosthenes
+755,./data/tlg0014/tlg016/tlg0014.tlg016.perseus-grc2.xml,ὑπὲρ Μεγαλοπολιτῶν,Demosthenes
+756,./data/tlg0014/tlg029/tlg0014.tlg029.perseus-grc2.xml,πρὸς Ἄφοβον ὑπὲρ Φάνου ψευδομαρτυριῶν γ΄,Demosthenes
+757,./data/tlg0014/tlg020/tlg0014.tlg020.perseus-grc2.xml,περὶ τῆς Ἀτελείας πρὸς Λεπτίνην,Demosthenes
+758,./data/tlg0014/tlg027/tlg0014.tlg027.perseus-grc2.xml,κατὰ Ἀφόβου ἐπιτροπῆς α΄,Demosthenes
+759,./data/tlg0014/tlg018/tlg0014.tlg018.perseus-grc2.xml,ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου,Demosthenes
+760,./data/tlg0014/tlg044/tlg0014.tlg044.perseus-grc2.xml,πρὸς Λεωκάρη περὶ τοῦ Ἀρχιάδου κλήρου,Demosthenes
+761,./data/tlg0014/tlg043/tlg0014.tlg043.perseus-grc2.xml,πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου,Demosthenes
+762,./data/tlg0014/tlg026/tlg0014.tlg026.perseus-grc2.xml,κατὰ Ἀριστογείτονος β΄,Demosthenes
+763,./data/tlg0014/tlg019/tlg0014.tlg019.perseus-grc2.xml,περὶ τῆς παραπρεσβείας,Demosthenes
+764,./data/tlg0014/tlg021/tlg0014.tlg021.perseus-grc2.xml,κατὰ Μειδίου περὶ τοῦ Κονδύλου,Demosthenes
+765,./data/tlg0014/tlg017/tlg0014.tlg017.perseus-grc2.xml,περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν,Demosthenes
+766,./data/tlg0014/tlg028/tlg0014.tlg028.perseus-grc2.xml,κατὰ Ἀφόβου β΄,Demosthenes
+767,./data/tlg0014/tlg010/tlg0014.tlg010.perseus-grc2.xml,κατὰ Φιλίππου δ΄,Demosthenes

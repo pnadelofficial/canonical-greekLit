@@ -1,0 +1,769 @@
+,doc_index,x,y,title,author
+0,0,-1.0860407,-6.1979914,On the Natural Faculties.,Galen
+1,1,-7.6285233,13.127632,Parmenides,Plato
+2,2,5.8494296,-3.8397963,Epistles,Plato
+3,3,4.7093062,-4.3840423,Timaeus,Plato
+4,4,6.5274177,-5.7672105,Sophist,Plato
+5,5,-6.0442653,13.381224,Euthyphro,Plato
+6,6,-7.1545863,13.290396,Theaetetus,Plato
+7,7,-6.0960355,15.440819,Republic,Plato
+8,8,6.6788087,-5.839525,Statesman,Plato
+9,9,-5.203093,12.840495,Hipparchus,Plato
+10,10,-5.8334465,0.7903061,Phaedrus,Plato
+11,11,-3.9083972,13.422119,Meno,Plato
+12,12,-4.9019566,13.700359,Gorgias,Plato
+13,13,-4.5371575,16.35192,Protagoras ,Plato
+14,14,-11.461447,7.8387065,Hippias Major,Plato
+15,15,-3.0370667,13.408032,Alcibiades 1,Plato
+16,16,-4.438553,4.2581854,Alcibiades 2,Plato
+17,17,4.1535883,-3.2019916,Critias,Plato
+18,18,5.5097303,-4.6073823,Epinomis,Plato
+19,19,-3.6114001,14.968247,Crito,Plato
+20,20,-7.2616363,16.255093,Phaedo,Plato
+21,21,-3.87789,-0.13778828,Cratylus,Plato
+22,22,22.735203,15.280998,Apology,Plato
+23,23,5.7588944,-5.025248,Laws,Plato
+24,24,-4.168163,0.9157659,Minos,Plato
+25,25,-4.502797,16.699984,Symposium,Plato
+26,26,-4.3659406,1.9492356,Lovers,Plato
+27,27,-3.0613112,2.135579,Cleitophon,Plato
+28,28,-6.5852838,16.093163,Lysis,Plato
+29,29,-4.941186,2.6132307,Ion,Plato
+30,30,-2.9568994,2.2486582,Charmides ,Plato
+31,31,-4.9169106,2.8878267,Hippias Minor,Plato
+32,32,-3.0665731,13.951023,Laches,Plato
+33,33,-5.214802,16.298513,Euthydemus ,Plato
+34,34,-3.911255,14.513883,Theages,Plato
+35,35,13.253013,-3.7671833,Menexenus,Plato
+36,36,5.9717016,-5.321466,Philebus,Plato
+37,37,8.238966,11.902354,Agesilaus,Xenophon
+38,38,-1.0273802,9.128419,Cyropaedia,Xenophon
+39,39,8.690499,11.698467,Hellenica,Xenophon
+40,40,-0.6397589,9.838526,Anabasis,Xenophon
+41,41,-1.2541716,6.426542,Hiero,Xenophon
+42,42,-2.244274,8.645421,On the Cavalry Commander,Xenophon
+43,43,-3.2103944,8.594347,On the Art of Horsemanship,Xenophon
+44,44,-3.3308794,8.340872,On Hunting,Xenophon
+45,45,-1.3880624,6.9551425,Economics,Xenophon
+46,46,-1.9884255,5.401222,Symposium,Xenophon
+47,47,0.31409,3.7962503,Apology,Xenophon
+48,48,-1.6947345,5.604988,Memorabilia,Xenophon
+49,49,0.6080032,6.0259,Ways and Means,Xenophon
+50,50,-0.9611571,7.8049746,Constitution of the Lacedaemonians,Xenophon
+51,51,-7.093183,-9.628843,Eros Drapeta,Moschus
+52,52,-8.503298,-13.169783,Epitaphius Bios,Moschus
+53,53,-8.264035,-15.650808,Megara,Moschus
+54,54,-7.1477203,-9.471343,Fragmenta,Moschus
+55,55,-8.697462,-15.659124,Europa,Moschus
+56,56,-4.827897,-10.116454,Narrationes Amatoriae,Parthenius
+57,57,16.01634,20.120955,The Peloponnesian War,Thucydides
+58,58,2.1266317,7.271743,Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων,Diogenes Laertius
+59,59,-17.909266,-1.1529227,Imagines,Philostratus Minor
+60,60,-2.200883,9.915975,Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν,Aeneas Tacticus
+61,61,25.883871,14.231505,Characters,Theophrastus
+62,62,0.19705251,-6.8923507,Placita Philosophorum,Pseudo-Plutarch
+63,63,-0.64577127,-4.195903,De musica,Pseudo-Plutarch
+64,64,11.371677,8.167952,"Bibliotheca Historica, Books XVIII-XX",Diodorus Siculus
+65,65,7.68797,0.11060529,"Bibliotheca Historica, Books I-V",Diodorus Siculus
+66,66,18.24378,15.745547,Lexicon in decem oratores Atticos,"Harpocration, Valerius"
+67,67,-8.944853,7.3230352,De Gymnastica,Philostratus the Athenian
+68,68,-21.649515,-9.299433,Vita Apollonii,Philostratus the Athenian
+69,69,-16.532694,0.6800452,Epistulae et dialexeis,Philostratus the Athenian
+70,70,-9.218776,7.3905196,Vitae Sophistarum,Philostratus the Athenian
+71,71,-21.650776,-9.294594,Heroicus,Philostratus the Athenian
+72,72,-2.751505,-2.0942872,Nero,Philostratus the Athenian
+73,73,-9.358174,-12.95678,Idylls ,Theocritus
+74,74,-8.044399,-15.874383,Epigrams ,Theocritus
+75,75,-11.395324,-17.12702,Phaenomena,Aratus Solensis
+76,76,23.082422,0.598127,Against Leocrates ,Lycurgus
+77,77,-3.8349335,-19.657251,Ὀλυμπιονῖκαι,Pindar
+78,78,-3.89474,-19.557142,Νεμεονῖκαι,Pindar
+79,79,-4.0559583,-19.330183,Ἰσθμιονῖκαι,Pindar
+80,80,-3.863535,-19.631062,Πυθιονῖκαι,Pindar
+81,81,-9.922884,10.237434,Ἑλλάδος Περιηγήσεως,Pausanias
+82,82,-14.223379,-13.16431,Epistulae,"Basil, Saint, Bishop of Caesarea"
+83,83,-4.256512,-14.059579,"To Young Men, On How They Might Dervice Profit From Pagan Literature","Basil, Saint, Bishop of Caesarea"
+84,84,-13.863683,16.580147,De causis et signis acutorum morborum ,Aretaeus
+85,85,-14.91533,17.123701,De curatione acutorum morborum ,Aretaeus
+86,86,-14.9122,17.120884,De curatione diuturnorum morborum ,Aretaeus
+87,87,-13.907816,16.6171,Περὶ αἰτίων καὶ σημείων χρονίων παθῶν,Aretaeus of Cappadocia
+88,88,-17.954714,-1.1584332,Imagines,Philostratus the Lemnian (Philostratus Major)
+89,89,20.33149,4.177588,For The Soldier,Lysias
+90,90,21.628305,3.2393382,Against Philon,Lysias
+91,91,21.39946,3.568015,Defense in the Matter of the Olive Stump,Lysias
+92,92,20.123789,7.408281,On the Murder of Eratosthenes,Lysias
+93,93,23.14169,2.9703546,Against Andocides,Lysias
+94,94,22.350704,2.3427618,Against Nicomachus,Lysias
+95,95,20.235401,4.991481,Accusation of Calumny,Lysias
+96,96,17.207521,3.739798,Against Alcibiades 2,Lysias
+97,97,22.61905,3.6744096,Against Eratosthenes,Lysias
+98,98,20.740229,3.3188384,On The Refusal Of A Pension,Lysias
+99,99,20.137981,8.015405,Against Pancleon,Lysias
+100,100,19.417946,3.4976273,Against The Corn-Dealers,Lysias
+101,101,21.221085,2.727119,Defense Against a Charge of Subverting the Democracy,Lysias
+102,102,23.004675,4.5844364,Against Agoratus,Lysias
+103,103,21.045143,1.5925431,Against Alcibiades 1,Lysias
+104,104,22.102926,7.7707434,Against Diogeiton,Lysias
+105,105,19.709576,6.869867,Against Simon,Lysias
+106,106,16.924166,5.81503,On A Wound By Premeditation,Lysias
+107,107,-6.2916026,-2.2615292,For Callias,Lysias
+108,108,14.552592,-3.4396536,Funeral Oration,Lysias
+109,109,3.2723725,1.7525309,Against The Subversion of the Ancestral Constitution,Lysias
+110,110,5.5583787,1.1419808,Olympic Oration,Lysias
+111,111,17.803568,4.781138,Against Theomnestus 2,Lysias
+112,112,18.97058,3.387093,In Defense of Mantitheus,Lysias
+113,113,16.623955,5.4021955,Against Philocrates,Lysias
+114,114,22.25453,4.9595757,For Polystratus,Lysias
+115,115,17.793253,2.9742293,Against Epicrates and his Fellow-envoys,Lysias
+116,116,18.191788,2.3467693,On the Confiscation of the Property Of The Brother Of Nicias,Lysias
+117,117,19.511908,2.2413166,On the Scrutiny of Evandros,Lysias
+118,118,22.37792,6.742591,On the Property of Aristophanes,Lysias
+119,119,19.583664,4.2212577,Defense Against A Charge Of Taking Bribes,Lysias
+120,120,19.03527,8.311698,On The Property Of Eraton,Lysias
+121,121,17.828077,2.5544717,Against Ergocles,Lysias
+122,122,20.927813,5.715291,Against Theomnestus 1,Lysias
+123,123,-9.771437,-16.88418,Fall of Troy,Quintus Smyrnaeus
+124,124,14.80208,-13.444945,Library ,Apollodorus
+125,125,14.748628,-13.41198,Epitome ,Apollodorus
+126,126,-12.2736025,-12.380267,Protrepticus,Clement of Alexandria
+127,127,-15.205562,-13.281247,Quis Dis Salvetur,Clement of Alexandria
+128,128,-28.829855,-9.929902,"Exhortation to Endurance, or to the Newly Baptized",Clement of Alexandria
+129,129,-17.23803,-12.549546,Stromata (Books I-VI),Clement of Alexandria
+130,130,-20.444662,1.1240184,De Chaerea et Callirhoe,Chariton
+131,131,-0.9718706,-15.556201,Ad Se Ipsum,Marcus Aurelius
+132,132,-4.306687,-18.976675,Odes (Greek) - Ep,Bacchylides
+133,133,-5.838692,-16.485865,Odes (Greek) - Dith,Bacchylides
+134,134,-0.3242972,-28.012337,Oedipus at Colonus,Sophocles
+135,135,-0.960923,-28.027683,Trachiniae,Sophocles
+136,136,0.17317206,-28.173859,Philoctetes,Sophocles
+137,137,-5.4278235,-16.18166,Ichneutae,Sophocles
+138,138,-0.17858025,-27.765207,Ajax,Sophocles
+139,139,-0.6349391,-27.994503,Oedipus Tyrannus,Sophocles
+140,140,-0.97524834,-27.80391,Electra,Sophocles
+141,141,-0.7882278,-27.30893,Antigone,Sophocles
+142,142,-9.621536,-15.776757,The Taking of Ilios,Tryphiodorus
+143,143,23.66012,1.1798514,Against Philocles ,Dinarchus
+144,144,24.42273,1.01759,Against Demosthenes ,Dinarchus
+145,145,23.587421,1.2152373,Against Aristogiton ,Dinarchus
+146,146,-12.999098,12.201085,Ἱστορίαι,Herodotus
+147,147,-10.520643,-18.825298,Theogony (Greek). Machine readable text,Hesiod
+148,148,-9.370034,-17.644197,Shield of Heracles (Greek). Machine readable text,Hesiod
+149,149,-10.834679,-18.006857,Works and Days (Greek). Machine readable text,Hesiod
+150,150,24.902618,5.823386,On the Mysteries ,Andocides
+151,151,20.424326,-1.2633152,"On the Peace with Sparta
+",Andocides
+152,152,22.291988,1.6230105,Against Alcibiades ,Andocides
+153,153,24.056803,5.883014,On His Return ,Andocides
+154,154,-11.089267,12.090005,Anabasis,Arrian
+155,155,-7.0080585,7.967034,Acies Contra Alanos,Arrian
+156,156,-4.4933457,7.741026,Cynegeticus,Arrian
+157,157,-9.887093,9.946237,Periplus Ponti Euxini,Arrian
+158,158,-6.9879794,8.883049,Tactica,Arrian
+159,159,-11.817898,11.84644,Indica,Arrian
+160,160,22.181995,-8.6812935,Orationes 54 ,"Aristides, Aelius"
+161,161,22.196978,-8.690995,Orationes 53 ,"Aristides, Aelius"
+162,162,7.3635297,1.1505462,Orationes 9 ,"Aristides, Aelius"
+163,163,18.501413,-6.3094497,Orationes 36 ,"Aristides, Aelius"
+164,164,17.637966,-6.054268,Orationes 31 ,"Aristides, Aelius"
+165,165,17.5549,-7.6143136,Orationes 38 ,"Aristides, Aelius"
+166,166,4.7115784,-1.1920235,Orationes 7 ,"Aristides, Aelius"
+167,167,10.348774,1.4947429,Orationes 52 ,"Aristides, Aelius"
+168,168,-16.440462,-4.951511,Orationes 55 ,"Aristides, Aelius"
+169,169,-31.608793,-8.555922,Orationes 1 ,"Aristides, Aelius"
+170,170,17.706627,-7.409241,Orationes 39 ,"Aristides, Aelius"
+171,171,-31.333519,-6.4694057,Orationes 6 ,"Aristides, Aelius"
+172,172,16.64364,-5.869615,Orationes 30 ,"Aristides, Aelius"
+173,173,4.1630287,-1.7005095,Orationes 8 ,"Aristides, Aelius"
+174,174,18.764133,-6.1379333,Orationes 37 ,"Aristides, Aelius"
+175,175,-33.123116,-4.3390718,Orationes 15 ,"Aristides, Aelius"
+176,176,4.1848564,0.31864294,Orationes 12 ,"Aristides, Aelius"
+177,177,-21.073147,11.210797,Orationes 24 ,"Aristides, Aelius"
+178,178,-21.07224,11.41213,Orationes 23 ,"Aristides, Aelius"
+179,179,11.744647,-6.5390897,Orationes 48 ,"Aristides, Aelius"
+180,180,10.948068,2.1737914,Orationes 46 ,"Aristides, Aelius"
+181,181,-32.45165,-9.24223,Orationes 41 ,"Aristides, Aelius"
+182,182,3.3376718,-1.4785557,Orationes 22 ,"Aristides, Aelius"
+183,183,-21.058624,11.298214,Orationes 25 ,"Aristides, Aelius"
+184,184,14.063839,-6.12382,Orationes 13 ,"Aristides, Aelius"
+185,185,13.444874,-7.895812,Orationes 14 ,"Aristides, Aelius"
+186,186,14.868784,0.6092718,Orationes 40 ,"Aristides, Aelius"
+187,187,-0.6409,1.0233835,Orationes 47 ,"Aristides, Aelius"
+188,188,0.4378169,-1.5734355,Orationes 49 ,"Aristides, Aelius"
+189,189,15.737385,-4.2227664,Orationes 32 ,"Aristides, Aelius"
+190,190,18.499853,-5.8798566,Orationes 35 ,"Aristides, Aelius"
+191,191,2.7857664,-2.1329758,Orationes 3 ,"Aristides, Aelius"
+192,192,-34.438595,-10.807825,Orationes 4 ,"Aristides, Aelius"
+193,193,0.4356628,-0.5669502,Orationes 50 ,"Aristides, Aelius"
+194,194,-32.31411,-9.945158,Orationes 5 ,"Aristides, Aelius"
+195,195,5.6172686,-1.6687447,Orationes 2 ,"Aristides, Aelius"
+196,196,19.13103,-6.61816,Orationes 34 ,"Aristides, Aelius"
+197,197,19.170965,-6.564361,Orationes 33 ,"Aristides, Aelius"
+198,198,17.153114,16.928005,Ars Rhetorica,"Aristides, Aelius
+	"
+199,199,0.8206798,-0.95909923,Orationes 51 ,"Aristides, Aelius"
+200,200,13.569392,-6.4957757,Orationes 42 ,"Aristides, Aelius"
+201,201,-0.060929682,-0.15602304,Orationes 45 ,"Aristides, Aelius"
+202,202,-30.571444,-8.690051,Orationes 11 ,"Aristides, Aelius"
+203,203,12.767955,-6.676155,Orationes 16 ,"Aristides, Aelius"
+204,204,16.558012,-5.8062696,Orationes 29 ,"Aristides, Aelius"
+205,205,-33.292336,-9.974914,Orationes 20 ,"Aristides, Aelius"
+206,206,-21.076534,11.513236,Orationes 27 ,"Aristides, Aelius"
+207,207,-31.337143,-3.5304058,Orationes 18 ,"Aristides, Aelius"
+208,208,13.758481,-6.908907,Orationes 44 ,"Aristides, Aelius"
+209,209,14.192493,-7.4791594,Orationes 43 ,"Aristides, Aelius"
+210,210,-21.174997,11.876403,Orationes 26 ,"Aristides, Aelius"
+211,211,-32.408337,-8.283362,Orationes 19 ,"Aristides, Aelius"
+212,212,-31.48987,-7.7290316,Orationes 21 ,"Aristides, Aelius"
+213,213,-17.300816,-6.362498,Orationes 17 ,"Aristides, Aelius"
+214,214,-32.101032,-6.7345524,Orationes 28 ,"Aristides, Aelius"
+215,215,-16.875242,-6.1040077,Orationes 10 ,"Aristides, Aelius"
+216,216,-9.677443,-15.170178,Rape of Helen,Colluthus
+217,217,16.566143,18.012915,Libro de Elocutione,Demetrius of Phaleron (attributed author)
+218,218,3.268119,22.725868,de Bellis,Procopius
+219,219,3.2696729,22.722963,Historia Arcana (Anecdota),Procopius
+220,220,12.597557,29.217722,Frogs,Aristophanes
+221,221,11.614311,29.586895,Lysistrata,Aristophanes
+222,222,11.342513,29.459852,Acharnians,Aristophanes
+223,223,10.427096,29.64887,Birds,Aristophanes
+224,224,11.935334,29.62552,Thesmophoriazusae,Aristophanes
+225,225,15.841143,27.380346,Clouds,Aristophanes
+226,226,15.840292,27.380499,Clouds,Aristophanes
+227,227,11.5267725,28.642685,Wasps,Aristophanes
+228,228,10.987744,28.806728,Peace,Aristophanes
+229,229,11.718765,28.441807,Knights,Aristophanes
+230,230,10.718938,28.392235,Plutus,Aristophanes
+231,231,11.993024,26.177876,Ecclesiazusae,Aristophanes
+232,232,11.995077,26.163578,Ecclesiazusae,Aristophanes
+233,233,27.651918,2.0494998,Against Timarchus ,Aeschines
+234,234,27.538391,1.3089144,"Against Ctesiphon
+",Aeschines
+235,235,27.546402,1.1395637,The Speech on the Embassy ,Aeschines
+236,236,1.8009772,9.269388,Strategicus,Onasander
+237,237,27.101852,7.672654,Prosecution Of The Stepmother For Poisoning ,Antiphon
+238,238,25.745193,6.2677727,On the Choreutes ,Antiphon
+239,239,28.226786,7.022386,The Second Tetralogy: Prosecution for Accidental Homicide ,Antiphon
+240,240,28.113417,7.086008,The Third Tetralogy: Prosecution for Murder Of One Who Pleads Self-Defense ,Antiphon
+241,241,26.355595,6.3682356,Περὶ τοῦ Ἡρῷδου φόνου ,Antiphon
+242,242,27.937214,6.7621603,Anonymous Prosecution for Murder ,Antiphon
+243,243,-20.151606,1.0641624,Ephesiaca,Xenophon of Ephesus
+244,244,22.805431,8.950028,On the Estate of Astyphilus ,Isaeus
+245,245,23.499254,9.382133,On The Estate of Apollodorus ,Isaeus
+246,246,23.629488,8.037238,On The Estate of Cleonymus ,Isaeus
+247,247,24.594282,10.79507,On the Estate of Philoctemon ,Isaeus
+248,248,24.640368,9.121585,"On The Estate of Ciron
+",Isaeus
+249,249,21.329132,8.144167,On Behalf of Euphiletus ,Isaeus
+250,250,24.976765,11.507724,On The Estate Of Pyrrhus ,Isaeus
+251,251,22.758871,10.475987,On the Estate of Nicostratus ,Isaeus
+252,252,24.242342,9.924814,On the Estate of Dicaeogenes ,Isaeus
+253,253,22.292664,9.787823,On the Estate of Menecles ,Isaeus
+254,254,23.622509,11.0736065,On the Estate of Hagnias ,Isaeus
+255,255,23.21648,10.183561,On The Estate Of Aristarchus ,Isaeus
+258,258,16.609966,4.2884617,Helen,Isocrates
+259,259,18.755322,5.6983852,To Demonicus,Isocrates
+260,260,-34.078156,-6.0096602,Against Euthynus,Isocrates
+261,261,2.3475077,0.32404944,Aegineticus,Isocrates
+262,262,8.331796,1.7219582,"To Philip, II",Isocrates
+263,263,15.19232,-1.8155882,Against the Sophists,Isocrates
+264,264,-32.039318,-11.880357,Evagoras,Isocrates
+265,265,-30.579035,-7.1222863,Plataicus,Isocrates
+266,266,-31.162241,-6.591622,To Archidamus,Isocrates
+267,267,-34.903072,-8.584148,To the Children of Jason,Isocrates
+268,268,9.65866,-3.4033484,To Dionysius,Isocrates
+269,269,12.828676,-0.7113793,To the Rulers of the Mytilenaeans,Isocrates
+270,270,16.540607,3.30628,To Nicocles,Isocrates
+271,271,18.365976,1.6724638,Nicocles or the Cyprians,Isocrates
+272,272,22.170076,8.059295,Against Lochites,Isocrates
+273,273,19.664513,1.8549628,Concerning the Team of Horses,Isocrates
+274,274,14.631292,-2.5683544,Trapeziticus,Isocrates
+275,275,14.699577,-1.7727656,Against Callimachus,Isocrates
+276,276,-30.125717,-7.9859037,Panegyricus,Isocrates
+277,277,11.482549,-0.2752442,Archidamus,Isocrates
+278,278,-34.86279,-6.4024296,To Antipater,Isocrates
+279,279,12.949944,-1.5631015,To Philip,Isocrates
+280,280,12.903504,0.047551874,"To Philip, I",Isocrates
+281,281,11.959551,-0.02271425,Areopagiticus,Isocrates
+282,282,13.542647,-1.4044582,Antidosis,Isocrates
+283,283,-33.306946,-3.8846571,Panathenaicus,Isocrates
+284,284,9.678001,0.2579935,On the Peace,Isocrates
+285,285,-2.3086407,4.0421214,To Alexander,Isocrates
+286,286,17.773796,16.283756,Busiris,Isocrates
+287,287,-5.922653,-2.5967724,Orationes,Dio Chrysostom
+288,288,8.881883,5.449307,De Dinarcho,Dionysius of Halicarnassus
+289,289,18.455786,19.943914,Libri secundi de antiquis oratoribus reliquiae,Dionysius of Halicarnassus
+290,290,17.574883,16.52421,"Antiquitates Romanae, Books I-XX",Dionysius of Halicarnassus
+291,291,17.583231,19.294617,De Demosthene,Dionysius of Halicarnassus
+292,292,18.49159,20.603075,Ad Ammaeum,Dionysius of Halicarnassus
+293,293,19.026724,18.63929,Epistula ad Pompeium Geminum,Dionysius of Halicarnassus
+294,294,18.798235,18.693876,De Compositione Verborum,Dionysius of Halicarnassus
+295,295,19.334383,18.490416,De Lysia,Dionysius of Halicarnassus
+296,296,1.7823269,2.2264776,De Isocrate,Dionysius of Halicarnassus
+297,297,17.238699,19.329102,De Isaeo,Dionysius of Halicarnassus
+298,298,16.726261,19.875765,De antiquis oratoribus,Dionysius of Halicarnassus
+299,299,-8.193685,21.950613,De Thucydidis idiomatibus (epistula ad Ammaeum),Dionysius of Halicarnassus
+300,300,-7.799127,22.138231,De Thucydide,Dionysius of Halicarnassus
+301,301,0.22215763,-5.4318113,Eudemian Ethics (Greek). Machine readable text,Aristotle
+302,302,12.30371,-2.1529133,Rhetoric,Aristotle
+303,303,25.76564,-1.9561825,Metaphysics,Aristotle
+304,304,-3.0395484,21.227694,Politics (Greek). Machine readable text,Aristotle
+305,305,8.2827635,-8.286504,Athenian Constitution,Aristotle
+306,306,0.0013192081,7.8076396,Ars Poetica,Aristotle
+307,307,-8.336636,21.884026,Virtues and Vices,Aristotle
+308,308,-8.540369,-13.207055,Economics (Greek). Machine readable text,Aristotle
+309,309,-8.594443,-13.437377,Nicomachean Ethics,Aristotle
+310,310,-7.1088605,-10.260839,Epitaphius Adonis,Bion of Phlossa
+311,311,-15.628873,-13.841937,Fragmenta,Bion of Phlossa
+312,312,-17.60449,-5.5598636,Epithalamium Achillis et Deidameiae,Bion of Phlossa
+313,313,-12.164241,-9.326459,Vita Barlaam et Joasaph,"John, of Damascus (attributed author)"
+314,314,-14.68165,-11.134709,New Testament - Galatians,New Testament
+315,315,-12.2629595,-9.389804,New Testament - 1 Corinthians,New Testament
+316,316,-11.81447,-8.415355,New Testament - Matthew,New Testament
+317,317,-14.854058,-4.6280184,New Testament - Romans,New Testament
+318,318,-19.537949,-5.7390513,New Testament - 2 Corinthians,New Testament
+319,319,-19.851181,-6.0283923,New Testament - 1 Timothy,New Testament
+320,320,-6.6166167,-3.7489374,New Testament - Colossians,New Testament
+321,321,-17.13007,-7.4048243,New Testament - 2 John,New Testament
+322,322,-15.618896,-5.60091,New Testament - 1 John,New Testament
+323,323,-13.381025,-5.4410467,New Testament - 2 Peter,New Testament
+324,324,-17.915813,-5.7468934,New Testament - 3 John,New Testament
+325,325,-14.783562,-11.26518,New Testament - 1 Thessalonians,New Testament
+326,326,-14.831125,-12.105714,New Testament - 2 Thessalonians,New Testament
+327,327,-14.831383,-10.800822,New Testament - Luke,New Testament
+328,328,-14.6029,-10.948691,New Testament - John,New Testament
+329,329,-13.232577,-6.5769486,New Testament - Acts,New Testament
+330,330,-14.465897,-5.6978555,New Testament - Mark,New Testament
+331,331,-11.038793,-7.8616323,New Testament - Philippians,New Testament
+332,332,-13.525719,-10.497964,New Testament - 2 Timothy,New Testament
+333,333,-29.235926,-8.525734,New Testament - James,New Testament
+334,334,-35.220387,-5.4624143,New Testament - Revelation,New Testament
+335,335,-11.734995,-6.7216315,New Testament - Philemon,New Testament
+336,336,-10.967924,-6.8163824,New Testament - Jude,New Testament
+337,337,-15.416536,-6.857225,New Testament - Hebrews,New Testament
+338,338,-18.229872,-4.64855,New Testament - 1 Peter,New Testament
+339,339,9.543459,-13.706945,New Testament - Titus,New Testament
+340,340,4.4933033,-12.679837,New Testament - Ephesians,New Testament
+341,341,0.36655086,-10.851318,Πολιτικὰ παραγγέλματα,Plutarch
+342,342,6.343583,-12.617074,Περὶ τοῦ μὴ δεῖν δανείζεσθαι,Plutarch
+343,343,4.6346354,-11.175163,Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαῖα ἢ τὰ ἔνυδρα,Plutarch
+344,344,5.8363905,-12.2782955,Πρὸς ἡγεμόνα ἀπαίδευτον,Plutarch
+345,345,1.4934084,-9.871667,Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου,Plutarch
+346,346,9.391021,-13.642223,Περὶ φυγῆς,Plutarch
+347,347,15.402759,14.898184,Περὶ τοῦ πότερον ὕδωρ ἢ πῦρ χρησιμώτερον,Plutarch
+348,348,3.5696485,2.6485186,Εἰ πρεσβυτέρῳ πολιτευτέον,Plutarch
+349,349,1.0340816,-8.459798,Vitae decem oratorum,Plutarch
+350,350,4.3797503,10.082397,Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας,Plutarch
+351,351,4.1045957,5.6290975,Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης,Plutarch
+352,352,5.0180697,-12.01573,Demosthenes,Plutarch
+353,353,3.3821404,-8.78079,Comparison of Agis and Cleomenes and the Gracchi,Plutarch
+354,354,4.3850074,16.532263,Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας,Plutarch
+355,355,-10.506119,-2.841083,Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν,Plutarch
+356,356,5.768121,-14.875666,Galba,Plutarch
+357,357,3.5859852,3.4642072,Comparison of Dion and Brutus,Plutarch
+358,358,3.6791384,15.234486,Περὶ εὐθυμίας,Plutarch
+359,359,5.790059,16.96631,Comparison of Solon and Publicola,Plutarch
+360,360,6.541553,10.402619,Lucullus,Plutarch
+361,361,4.0529733,8.692284,Caius Marius,Plutarch
+362,362,7.580513,-14.022713,Nicias,Plutarch
+363,363,4.370712,13.364371,Solon,Plutarch
+364,364,2.1158178,12.607631,Περὶ φιλαδελφίας,Plutarch
+365,365,2.130977,-7.689175,Aratus,Plutarch
+366,366,4.9258614,14.950639,Artaxerxes,Plutarch
+367,367,4.0183883,-12.328473,Περὶ τοῦ Ε τοῦ ἐν Δελφοῖς,Plutarch
+368,368,4.4567127,18.186512,Tiberius and Caius Gracchus,Plutarch
+369,369,7.0797977,6.3940406,Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν,Plutarch
+370,370,3.889937,16.301357,Cicero,Plutarch
+371,371,6.087858,2.7588487,Theseus,Plutarch
+372,372,3.5108426,13.684013,Crassus,Plutarch
+373,373,6.5767336,14.966526,Comparison of Lycurgus and Numa,Plutarch
+374,374,2.9375823,4.214551,Pyrrhus,Plutarch
+375,375,6.537401,10.238661,Publicola,Plutarch
+376,376,5.2035275,8.741703,Comparison of Lucullus and Cimon,Plutarch
+377,377,6.4118853,8.579515,Alcibiades,Plutarch
+378,378,4.5780888,5.0736947,Pericles,Plutarch
+379,379,4.646555,17.35687,Machine readable text,Plutarch
+380,380,5.6118484,-17.333735,Comparison of Pelopidas and Marcellus,Plutarch
+381,381,7.832731,-16.701723,Caesar,Plutarch
+382,382,2.6955366,-14.480362,Ὑγιεινὰ παραγγέλματα,Plutarch
+383,383,5.010284,6.3915777,Πῶς ἄν τις διακρίνειε τὸν κόλκακα τοῦ φίλου,Plutarch
+384,384,4.606059,14.073455,Των επτά σοφών συμπόσιον,Plutarch
+385,385,5.6874375,16.03339,Comparison of Agesilaus and Pompey,Plutarch
+386,386,2.9482691,15.8541355,Eumenes,Plutarch
+387,387,5.674503,15.670488,Marcellus,Plutarch
+388,388,4.6756735,4.8941636,Marcus Cato,Plutarch
+389,389,4.2546945,4.20241,Fabius Maximus,Plutarch
+390,390,8.206315,-11.567043,Comparison of Pericles and Fabius Maximus,Plutarch
+391,391,1.946764,14.238082,Comparison of Nicias and Crassus,Plutarch
+392,392,6.6813664,-17.2735,Γαμικὰ παραγγέλματα,Plutarch
+393,393,4.9544954,10.250318,Alexander,Plutarch
+394,394,4.970603,-8.080564,Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή,Plutarch
+395,395,7.236518,-15.880463,Phocion,Plutarch
+396,396,4.1880026,-14.542539,Πραμυθητικὸς πρὸς Ἀπολλώνιον,Plutarch
+397,397,0.5346575,-5.985686,Περὶ δυσωπίας,Plutarch
+398,398,2.183915,-13.14367,Περὶ φιλοπλουτίας,Plutarch
+399,399,0.63197416,-6.4023843,Ἐπιτομὴ τοῦ περὶ τῆς ἐν τῷ Τιμαίῳ ψυχογονίας,Plutarch
+400,400,1.1771343,-6.1905475,Περὶ σαρκοφαγίας λόγος β′,Plutarch
+401,401,4.0774903,-14.976969,Πλατωνικὰ ζητήματα,Plutarch
+402,402,6.771493,-10.161597,Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας,Plutarch
+403,403,7.602943,7.994659,Περὶ πολυπραγμοσύνης,Plutarch
+404,404,3.4203558,-16.385782,Περὶ φθόνου καὶ μίσους,Plutarch
+405,405,6.9388947,-13.603218,Περὶ τῆς Ἡροδότου κακοηθείας,Plutarch
+406,406,3.4292815,-10.411879,Συμποσιακῶν προβλημάτων βιβλία,Plutarch
+407,407,8.846139,9.54407,Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν φιλοσοφόν διαλέγεσθαι,Plutarch
+408,408,7.413493,-12.626925,Εἰ καλῶς εἴρηται τὸ λάθε βιώτας,Plutarch
+409,409,1.4916625,-10.472893,Ἐρωτικαὶ διηγήσεις,Plutarch
+410,410,-4.6536613,-3.009309,Ἐρωτικός,Plutarch
+411,411,-1.2071761,-8.687237,Αἴτια φυσικά,Plutarch
+412,412,6.057803,9.592679,Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή,Plutarch
+413,413,5.867935,8.7000675,Πρὸς Κωλώτην,Plutarch
+414,414,5.9659834,4.8349204,Lysander,Plutarch
+415,415,6.7195764,3.494675,Cimon,Plutarch
+416,416,4.2085776,17.675919,Comparison of Theseus and Romulus,Plutarch
+417,417,3.3767817,12.76894,Lycurgus,Plutarch
+418,418,8.969437,-15.877812,Cato the Younger,Plutarch
+419,419,5.8278193,14.503535,Demetrius,Plutarch
+420,420,6.565197,-15.952582,Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν.,Plutarch
+421,421,2.2066379,-7.787307,Brutus,Plutarch
+422,422,5.2694273,14.408437,Περὶ ἀοπγησίας,Plutarch
+423,423,4.4883327,6.604738,Περὶ τῶν ἐκλελοιπότων,Plutarch
+424,424,8.0902195,5.4469156,Otho,Plutarch
+425,425,8.729079,6.0345645,Comparison of Demetrius and Antony,Plutarch
+426,426,4.3074975,3.062213,Numa,Plutarch
+427,427,4.387553,15.732134,Romulus,Plutarch
+428,428,9.334534,-5.0755115,Comparison of Lysander and Sulla,Plutarch
+429,429,3.495901,-13.31933,Sulla,Plutarch
+430,430,2.4767041,17.25334,Περὶ παίδων ἀγωγῆς,Plutarch
+431,431,5.578216,-13.694266,Εἰ διδακτὸν ἡ ἀρετή,Plutarch
+432,432,4.4928184,7.321897,Antony,Plutarch
+433,433,1.7949342,3.0650227,Περὶ τῆς ἠθικῆς ἀρετῆς,Plutarch
+434,434,6.7137322,-17.304085,Dion,Plutarch
+435,435,4.400937,12.5534115,Comparison of Demosthenes with Cicero,Plutarch
+436,436,5.110167,-13.758572,Περὶ τοῦ ἀκούειν,Plutarch
+437,437,2.6897554,-12.614787,Agis and Cleomenes,Plutarch
+438,438,2.8518047,-11.496929,Περί πολυφιλίας,Plutarch
+439,439,2.6852212,-7.333199,Περὶ δεισιδαιμονίας,Plutarch
+440,440,5.8848267,13.578248,Περὶ τύχης,Plutarch
+441,441,3.5487041,17.221405,Περὶ Ἴσιδος και Ὀσίριδος,Plutarch
+442,442,7.0812345,15.16399,Sertorius,Plutarch
+443,443,6.179297,14.711124,Pompey,Plutarch
+444,444,3.2395167,5.2210107,Camillus,Plutarch
+445,445,-16.423765,-6.486852,Caius Marcius Coriolanus,Plutarch
+446,446,5.3946247,13.336572,Comparison of Philopoemen and Titus,Plutarch
+447,447,5.2470875,3.77908,Comparison of Timoleon and Aemilius,Plutarch
+448,448,6.819797,12.190923,Philopoemen,Plutarch
+449,449,2.9541423,4.5606904,Timoleon,Plutarch
+450,450,3.3947318,-11.851558,Agesilaus,Plutarch
+451,451,7.1834116,-15.541601,Comparison of Sertorius and Eumenes,Plutarch
+452,452,2.737631,3.0729089,Περὶ ἀρετῆς καὶ κακιάς,Plutarch
+453,453,3.3936262,6.7790813,Πῶς ἄν τις ἀπ’ ἐχθρῶν ὠφελοῖτο,Plutarch
+454,454,4.5333133,11.678256,Comparison of Aristides and Marcus Cato,Plutarch
+455,455,4.7355585,2.0931892,Aemilius Paulus,Plutarch
+456,456,5.2581253,12.531353,Pelopidas,Plutarch
+457,457,6.649938,8.007045,Comparison of Alcibiades and Coriolanus,Plutarch
+458,458,3.2927444,-11.72577,Titus Flamininus,Plutarch
+459,459,6.542099,-10.85464,Themistocles,Plutarch
+460,460,-1.6778806,-8.887103,Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα,Plutarch
+461,461,1.2187743,-12.196262,Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων,Plutarch
+462,462,-1.6130186,-8.829969,Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς,Plutarch
+463,463,5.0365596,-9.964619,Περὶ σαρκοφαγίας λόγος α′,Plutarch
+464,464,-7.259667,-2.5858088,Περὶ Στωικῶν ἐνιγμάτων,Plutarch
+465,465,1.1163622,-4.8066063,Περὶ τοῦ Σωκράτους δαιμονίου,Plutarch
+466,466,-0.1912801,-11.772562,Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν ποιητῶν λέγουσι,Plutarch
+467,467,8.218777,-15.255256,Περὶ εἱμαρμένης,Plutarch
+468,468,1.5008875,-13.364634,Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι,Plutarch
+469,469,4.5091743,-15.828045,Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως,Plutarch
+470,470,-8.978892,-0.8052919,Ὅτι οὐδ' ἡδέως ζῆν ἔστι κατ' Ἐπίκουρον,Plutarch
+471,471,-10.059189,4.707532,Περὶ ἀδολεσχίας,Plutarch
+472,472,-15.691963,2.684973,Dipsades,Lucian
+473,473,-10.572316,2.5126896,Quomodo historia conscribenda sit,Lucian
+474,474,-11.36533,0.64069074,Navigium,Lucian
+475,475,-7.399574,-0.98091537,Scytha,Lucian
+476,476,-17.021887,6.197101,De Domo,Lucian
+477,477,-17.050018,8.0796385,De luctu,Lucian
+478,478,-12.204917,1.193943,Philopsuedes sive incredulus,Lucian
+479,479,-14.462859,1.9239824,Alexander,Lucian
+480,480,-11.598975,3.7697763,Nigrinus,Lucian
+481,481,8.2684555,-1.9110645,Hermotimus,Lucian
+482,482,-14.284097,6.160663,Prometheus es in verbis,Lucian
+483,483,-13.729274,7.1560373,Abdicatus,Lucian
+484,484,-8.962851,2.9403307,Saturnalia,Lucian
+485,485,-10.488245,-0.55148107,Phalaris,Lucian
+486,486,-6.723667,-0.76725703,Imagines,Lucian
+487,487,-1.5154557,3.4298596,Muscae Encomium,Lucian
+488,488,-9.800097,3.7131026,De parasito sive artem esse parasiticam,Lucian
+489,489,-16.590853,5.435794,Demonax,Lucian
+490,490,-18.853302,6.286397,Rhetorum praeceptor,Lucian
+491,491,-5.434035,-8.32714,Symposium,Lucian
+492,492,-14.5546055,2.2668366,Verae Historiae,Lucian
+493,493,-12.327241,11.538947,Vitarum auctio,Lucian
+494,494,-7.7953544,4.735031,Contemplantes,Lucian
+495,495,-16.011066,5.309912,De astrologia,Lucian
+496,496,-12.8154125,11.816609,Soleocista,Lucian
+497,497,-14.415351,5.425908,Lexiphanes,Lucian
+498,498,-13.586895,5.332151,De Syria dea,Lucian
+499,499,0.24526325,2.6707091,Timon,Lucian
+500,500,-4.8484063,-4.301951,Piscator,Lucian
+501,501,-8.773801,3.0736003,Calumniae non temere credundum,Lucian
+502,502,-1.2348589,2.1961706,Judicium vocalium,Lucian
+503,503,-7.8812833,-8.45203,Pro imaginibus,Lucian
+504,504,-10.56408,3.8648357,Eunuchus,Lucian
+505,505,-14.291684,-0.0302609,Podagra,Lucian
+506,506,-17.444878,7.0386477,Pseudologista,Lucian
+507,507,-11.9282255,2.5924935,Dearum judicium,Lucian
+508,508,-8.759085,-1.9201462,Necyomantia,Lucian
+509,509,-14.246254,3.4665356,Bacchus,Lucian
+510,510,-10.669717,1.5435568,Hercules,Lucian
+511,511,-16.46922,1.1866418,Deorum concilium,Lucian
+512,512,-8.172226,-0.061351553,Zeuxis,Lucian
+513,513,-15.492488,3.6014712,Dialogi deorum,Lucian
+514,514,-8.11728,0.65759444,Hesiod,Lucian
+515,515,-12.379407,2.812063,Dialogi mortuorum,Lucian
+516,516,-3.2200048,-4.079996,Apologia,Lucian
+517,517,-12.311937,5.0230823,Electrum,Lucian
+518,518,-11.731745,6.143728,Hippias,Lucian
+519,519,-14.830898,0.07827517,Anacharsis,Lucian
+520,520,-6.6666965,0.9526221,De mercede,Lucian
+521,521,-7.418188,1.6665914,Dialogi Marini,Lucian
+522,522,-10.713169,0.80433106,Pro lapsu inter salutandum,Lucian
+523,523,-17.511211,2.6070933,Harmonides,Lucian
+524,524,8.17353,-1.5268881,Herodotus,Lucian
+525,525,-17.222242,7.319972,Dialogi meretricii,Lucian
+526,526,-9.064815,2.2636256,Tyrannicida,Lucian
+527,527,2.5163162,7.005491,De morte Peregrini,Lucian
+528,528,-15.263306,3.7059302,De saltatione,Lucian
+529,529,-9.636398,0.7579699,Macrobii,Lucian
+530,530,-12.89509,2.49582,Cataplus,Lucian
+531,531,-4.3163776,-0.8957612,Somnium sive vita Luciani,Lucian
+532,532,-4.307204,-0.88142717,Prometheus,Lucian
+533,533,-13.881621,4.696112,De sacrificiis,Lucian
+534,534,-17.593128,4.2677817,De sacrificiis,Lucian
+535,535,-11.967329,4.206254,Juppiter trageodeus,Lucian
+536,536,-13.625361,3.6515598,Toxaris vel amicitia,Lucian
+537,537,-16.633795,3.8557825,Fugitivi,Lucian
+538,538,-18.406778,6.621911,Bis accusatus sive tribunalia,Lucian
+539,539,-6.5460567,2.615499,Gallus,Lucian
+540,540,-10.917755,5.070342,Icaromenippus,Lucian
+541,541,6.2219315,0.93870574,Juppiter confuatus,Lucian
+542,542,-8.684014,-17.212141,Adversus indoctum et libros multos ementem,Lucian
+543,543,-28.077606,-5.5092645,Patriae Encomium,Lucian
+544,544,-30.376844,-10.959977,Argonautica,Apollonius Rhodius
+545,545,-32.112045,-5.278231,Ἡρακλῆς,Euripides
+546,546,-31.068203,-9.54817,Ἑκάβη,Euripides
+547,547,-33.12959,-11.07248,Κύκλωψ,Euripides
+548,548,-32.45354,-10.96817,Ἀνδρομάχη,Euripides
+549,549,-29.468014,-6.408052,Ἱκέτιδες,Euripides
+550,550,-34.966858,-9.529991,Φοίνισσαι,Euripides
+551,551,-29.751322,-7.278393,Ἠλέκτρα,Euripides
+552,552,-33.489223,-7.424495,Ἰφιγένεια ἐν Ταύροις,Euripides
+553,553,-34.108707,-4.59045,Ἑλένη,Euripides
+554,554,-36.209892,-5.735416,Μήδεια,Euripides
+555,555,-31.557737,-10.557698,Ἡρακλεῖδαι,Euripides
+556,556,-29.898312,-4.4731126,Ἱππόλυτος,Euripides
+557,557,-34.976105,-7.574003,Ἄλκηστις,Euripides
+558,558,-28.73364,-7.3362455,Τρῳάδες,Euripides
+559,559,-33.41146,-7.555928,Ὀρέστης,Euripides
+560,560,-31.866163,-11.704417,Ἰφιγένεια ἐν Αὐλίδι,Euripides
+561,561,-35.78148,-8.569767,Ῥῆσος,Euripides
+562,562,-28.395718,-8.395216,Βάκχαι,Euripides
+563,563,25.315437,4.1241865,Ἴων,Euripides
+564,564,16.460075,0.83313113,Chrestomathy,Proclus
+565,565,25.274876,4.210004,In Defence of Lycophron ,Hyperides
+566,566,25.325172,2.9966912,Funeral Speech ,Hyperides
+567,567,25.0001,1.840902,Against Athenogenes ,Hyperides
+568,568,18.157738,4.1648765,In Defence of Euxenippus ,Hyperides
+569,569,-6.429654,8.102798,Against Demosthenes ,Hyperides
+570,570,11.920169,4.556368,Against Philippides,Hyperides
+571,571,11.922106,4.555224,Geographiae Informatio,Agathemerus
+572,572,-11.4420595,-0.6288623,Geography,Strabo
+573,573,11.392994,8.137187,Geography (Greek). Machine readable text,Strabo
+574,574,12.03614,12.014914,Statuaram Descriptiones,Callistratus
+575,575,8.681831,2.1154425,Histories,Polybius
+576,576,11.184945,12.438665,Antiquitates Judaicae,Flavius Josephus
+577,577,11.530347,12.245367,Contra Apionem,Flavius Josephus
+578,578,-2.5134706,-27.039125,De bello Judaico libri vii,Flavius Josephus
+579,579,-4.278534,6.994028,Josephi vita,Flavius Josephus
+580,580,-13.903325,-0.13365106,Alexandra,Lycophron
+581,581,1.3741825,10.9366,De Natura Animalium,Aelian
+582,582,-16.88688,-12.590601,Epistulae Rusticae,Aelian
+583,583,11.176039,14.968395,Varia Historia,Aelian
+584,584,-10.281167,-14.866294,Historia ecclesiastica,Eusebius of Caesarea
+585,585,-33.872265,-8.096728,Historiae Romanae,Cassius Dio Cocceianus
+586,586,-30.343285,-11.620431,Dionysiaca,Nonnus of Panopolis
+587,587,-6.199486,-12.7235365,Hymn to Zeus,Callimachus
+588,588,-5.967495,-13.001392,Hymn to Zeus,Callimachus
+589,589,-31.114027,-9.190502,Epigrams,Callimachus
+590,590,-7.3258066,-14.69435,"Epigrams, Fragmenta",Callimachus
+591,591,-28.322786,-7.4493337,Hymn to Apollo,Callimachus
+592,592,-29.448185,-8.584705,Hymn to Apollo,Callimachus
+593,593,-32.468784,-9.22716,Hymn to Demeter,Callimachus
+594,594,-35.314266,-9.854134,Hymn to Demeter,Callimachus
+595,595,-32.3912,-7.3870134,Hymn to Delos,Callimachus
+596,596,-29.564526,-5.1262183,Hymn to Delos,Callimachus
+597,597,-31.674519,-4.424031,Hymn to Athena,Callimachus
+598,598,-32.79529,-6.135798,Hymn to Athena,Callimachus
+599,599,-2.6112823,22.105783,Hymn to Artemis,Callimachus
+600,600,-2.607254,22.11588,Hymn to Artemis,Callimachus
+601,601,9.778978,19.066008,De Sublimitate,Longinus
+602,602,9.449363,18.614595,Περὶ ὕψους,Longinus
+603,603,9.375655,15.596278,Λιβυκή,Appian
+604,604,9.556258,18.548086,Ιβηρική,Appian
+605,605,9.137127,17.356739,ἐκ τῆς Σικελῖκης καὶ νησιωτικής,Appian
+606,606,10.637391,17.468767,Ἀννιβαϊκή,Appian
+607,607,10.359427,17.892101,Ἰλλυρική,Appian
+608,608,9.043947,13.667449,Συριακή,Appian
+609,609,9.8213625,16.167269,Μιθριδάτειος,Appian
+610,610,8.854709,15.824145,ἐκ τῆς Ἰταλικῆς,Appian
+611,611,7.1391406,5.7058635,ἐκ τῆς Σαυνιτικῆς,Appian
+612,612,10.267601,16.339128,ἐκ τῆς Κελτῖκης,Appian
+613,613,8.602426,18.545753,ἐκ τῆς βασιλικῆς,Appian
+614,614,5.7619305,6.4692245,ἐκ τῆς Μακεδονικῆς,Appian
+615,615,-6.6019363,9.484324,Ἐμφυλίων Πρώτη,Appian
+616,616,-34.956543,-3.6873832,ἐκ τῆς Νομαδικῆς,Appian
+617,617,-5.8049107,9.8074875,Tactica,Asclepiodotus
+618,618,-19.539558,1.9082139,On the Twelve Years ,Demades
+619,619,-0.06667185,-16.282034,Tetrabiblos,Claudius Ptolemy
+620,620,0.24370542,-15.101695,Leucippe et Clitophon,Achilles Tatius
+621,621,-0.2605614,-15.703025,Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν,Epictetus
+622,622,-15.4282675,-13.056679,Fragmenta,Epictetus
+623,623,-30.260847,-6.385295,Ἐγχειρίδιον,Epictetus
+624,624,-31.960127,-4.987881,Βαρνάβα ἐπιστολή,Barnabas
+625,625,-29.418509,-9.4896,To the Uneducated Cynics,Julian the Emperor
+626,626,-34.539352,-4.467339,To the Cynic Heracleios,Julian the Emperor
+627,627,-35.24614,-7.0289164,Panegyric in Honor of the Emperor Constantinus,Julian the Emperor
+628,628,-4.063746,-14.171961,Epistula ad Themistium,Julian the Emperor
+629,629,-13.708643,7.7489824,Hymn to the Mother of the Gods,Julian the Emperor
+630,630,-36.336456,-9.222714,Misopogon,Julian the Emperor
+631,631,-33.352676,-8.691402,Epistulae,Julian the Emperor
+632,632,-34.072613,-11.685489,"The Heroic Deeds of the Emperor Constantius, or on Kingship",Julian the Emperor
+633,633,-28.813486,-10.265928,A Consolation to Himself Upon the Departure of the Excellent Sallust,Julian the Emperor
+634,634,-29.982067,-5.468456,Letter to the Senate and the People of Athens,Julian the Emperor
+635,635,-31.85747,-6.0766807,Panegyric on the Empress Eusebia,Julian the Emperor
+636,636,-33.891365,-8.82248,Hymn to King Helios Dedicated to Sallust,Julian the Emperor
+637,637,-19.049442,1.933975,Contra Galilaeos,Julian the Emperor
+638,638,-9.780541,-20.527754,The Caesars,Julian the Emperor
+639,639,-7.353556,-14.329207,Daphnis and Chloe,Longus
+640,640,-9.72181,-20.425207,Ἰλιάς,Homer
+641,641,-7.5030484,-17.925976,Ἐπιγράμματα,Homer
+642,642,-7.5614257,-16.715775,Ὀδύσσεια,Homer
+643,643,-1.2197142,-25.963057,Cynegetica,Oppian of Apamea
+644,644,-1.0412703,-25.90022,Halieutica,Oppian
+645,645,-0.80336505,-26.43319,Eumenides,Aeschylus
+646,646,-1.6323454,-28.115505,Ἱκέτιδες,Aeschylus
+647,647,-0.5338455,-26.594372,Libation Bearers,Aeschylus
+648,648,-0.67849743,-25.934069,Prometheus Bound,Aeschylus
+649,649,0.3469387,-26.41383,Seven Against Thebes,Aeschylus
+650,650,-13.908647,-3.5698888,Agamemnon,Aeschylus
+651,651,-18.52785,-6.965975,Persians,Aeschylus
+652,652,-11.844087,14.944936,On Fractures ,Hippocrates
+653,653,-12.644375,15.675565,On Injuries of the Head,Hippocrates
+654,654,-33.833332,-6.7407227,On Ancient Medicine,Hippocrates
+655,655,-33.971146,-9.803393,Of the Epidemics ,Hippocrates
+656,656,-17.247118,-5.445092,On Fistulae ,Hippocrates
+657,657,-6.5728855,4.340956,De officina medici ,Hippocrates
+658,658,-33.10263,-5.865823,Aphorisms ,Hippocrates
+659,659,-35.5324,-10.314061,De alimento ,Hippocrates
+660,660,-12.807737,-3.3151784,The Oath ,Hippocrates
+661,661,-12.478238,-4.1770177,The Book of Prognostics ,Hippocrates
+662,662,-11.638956,14.775445,On Regimen in Acute Diseases ,Hippocrates
+663,663,-6.111023,5.339975,Acut. sp. ,Hippocrates
+664,664,-17.948164,-5.923728,De aere aquis et locis ,Hippocrates
+665,665,-33.47595,-5.515889,Precepts ,Hippocrates
+666,666,-6.4931607,4.9260855,Mochlicus or Instruments of Reduction ,Hippocrates
+667,667,-7.2673416,6.878012,On Hemorrhoids ,Hippocrates
+668,668,-7.14222,5.6540074,On the Sacred Disease ,Hippocrates
+669,669,-7.074964,10.128355,On Ulcers ,Hippocrates
+670,670,-9.65127,-4.9850817,On the Articulations ,Hippocrates
+671,671,-6.5301223,-5.9538207,Elementa,Euclid
+672,672,-7.522069,-11.448216,Hymn 9 To Artemis,Anonymous
+673,673,-6.228783,-5.3032217,Hymn 31 To Helios,Anonymous
+674,674,-7.5573077,-7.1646376,Hymn 7 To Dionysus,Anonymous
+675,675,-6.9145975,-5.3249016,Hymn 1 To Dionysus,Anonymous
+676,676,-8.896245,-6.815809,Hymn 6 To Aphrodite,Anonymous
+677,677,-8.675255,-4.122834,Hymn 30 To Earth,Anonymous
+678,678,-10.788493,-5.443918,Hymn 8 To Ares,Anonymous
+679,679,-10.583952,-4.4583206,Hymn 15 To Heracles the Lion-Hearted,Anonymous
+680,680,-11.695032,-4.8845468,Hymn 12 To Hera,Anonymous
+681,681,-9.855334,-4.345543,Hymn 24 To Hestia,Anonymous
+682,682,-8.357536,-3.149436,Hymn 23 to Zeus,Anonymous
+683,683,-12.035921,-4.90399,Hymn 22 To Poseidon,Anonymous
+684,684,-8.849452,-3.0979075,Hymn 25 To the Muses and Apollo,Anonymous
+685,685,-6.8551135,-6.31964,Hymn 13 To Demeter,Anonymous
+686,686,-9.5669155,-19.216368,Hymn 14 to the Mother of the Gods,Anonymous
+687,687,-8.798108,-19.108023,Hymn 32 To Selene,Anonymous
+688,688,-9.32794,-18.855335,Hymn 3 To Apollo,Anonymous
+689,689,-9.556564,-18.95007,Hymn 4 To Hermes,Anonymous
+690,690,-7.6798716,-6.5622454,Hymn 5 To Aphrodite,Anonymous
+691,691,-11.552247,-3.4984806,Hymn 2 To Demeter,Anonymous
+692,692,-11.479531,-4.9064565,Hymn 33 To the Dioscuri,Anonymous
+693,693,-7.788435,-4.692266,Hymn 11 To Athena,Anonymous
+694,694,-9.199629,-5.3784294,Hymn 16 To Asclepius,Anonymous
+695,695,-7.069658,-7.0158005,Hymn 29 To Hestia,Anonymous
+696,696,-7.8861356,-3.958879,Hymn 20 To Hephaestus,Anonymous
+697,697,-8.655548,-4.7938848,Hymn 27 To Artemis,Anonymous
+698,698,-7.3110747,-11.5238,Hymn 18 To Hermes,Anonymous
+699,699,-12.152322,-5.4639716,Hymn 26 To Dionysus,Anonymous
+700,700,-11.971067,-5.422331,Hymn 19 to Pan,Anonymous
+701,701,-7.9199224,-5.953755,Hymn 21 To Apollo,Anonymous
+702,702,-11.105373,-4.2081175,Hymn 17 To the Dioscuri,Anonymous
+703,703,15.49847,8.313408,Hymn 28 To Athena ,Anonymous
+704,704,20.596552,10.152015,Hymn 10 To Aphrodite,Anonymous
+705,705,19.738668,-4.178433,κατὰ Κόνωνος αἰκείας,Demosthenes
+706,706,20.543343,-3.1286952,πρὸς Νικόστρατον περὶ ἀνδραπόδων ἀπογραφῆς Ἀρεθουσίου,Demosthenes
+707,707,15.569682,9.682674,προοίμια δημηγορικά,Demosthenes
+708,708,17.190804,7.2242484,κατὰ Φιλίππου γ΄,Demosthenes
+709,709,18.140844,7.7575755,παραγραφὴ ὑπὲρ Φορμίωνος,Demosthenes
+710,710,15.370248,4.7217436,πρὸς Ὀνήτορα ἐξούλης β΄,Demosthenes
+711,711,19.313116,-0.2015081,παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην,Demosthenes
+712,712,21.64745,10.646235,περὶ Ἀλοννήσου,Demosthenes
+713,713,16.131124,7.3509173,Δημοσθένους ἐπιστολαὶ,Demosthenes
+714,714,18.85736,-2.850358,πρὸς Κάλλιππον,Demosthenes
+715,715,16.192518,10.292116,πρὸς Καλλικλέα περὶ χωρίου βλάβης,Demosthenes
+716,716,17.03417,-1.0977197,Ὀλυνθιακὸς α΄,Demosthenes
+717,717,17.518896,9.53324,πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος,Demosthenes
+718,718,19.795103,-3.0837858,κατὰ Φιλίππου β΄,Demosthenes
+719,719,15.919759,9.612196,πρὸς Ὀνήτορα ἐξούλης α΄,Demosthenes
+720,720,17.139118,-3.1517365,περὶ τῶν ἐν Χερρονήσῳ,Demosthenes
+721,721,16.876566,2.214306,παραγραφὴ πρὸς Πανταίνετον,Demosthenes
+722,722,25.154364,-2.3842852,ὑπὲρ τῆς Ῥοδίων ἐλευθερίας,Demosthenes
+723,723,24.524153,-4.0297112,ἐπιστολή [Φιλίππου],Demosthenes
+724,724,20.971083,10.087412,κατὰ Τιμοκράτους,Demosthenes
+725,725,21.819296,9.406847,κατὰ Ἀριστοκράτους,Demosthenes
+726,726,17.434237,8.571991,κατὰ Ὀλυμπιοδώρου βλάβης,Demosthenes
+727,727,23.901575,-2.9230847,κατὰ Στεφάνου ψευδομαρτυριῶν β΄,Demosthenes
+728,728,23.30713,-1.6832607,πρὸς Σπουδίαν ὑπὲρ προικός,Demosthenes
+729,729,18.259663,-2.3182395,κατὰ Ἀνδροτίωνος παρανόμων,Demosthenes
+730,730,17.969452,-3.2867334,κατὰ Ἀριστογείτονος α΄,Demosthenes
+731,731,20.835978,9.345417,περὶ συντάξεως,Demosthenes
+732,732,21.089113,12.746519,περὶ τῶν συμμοριῶν,Demosthenes
+733,733,20.811707,11.369755,πρὸς Βοιωτὸν περὶ προικὸς μητρῴας,Demosthenes
+734,734,16.580063,6.8651133,κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν,Demosthenes
+735,735,18.757978,12.076241,πρὸς Τιμόθεον ὑπὲρ χρέως,Demosthenes
+736,736,18.9843,-2.5790887,πρὸς Ζηνόθεμιν παραγραφή,Demosthenes
+737,737,18.769302,-2.8770897,πρὸς τὴν Λάκριτον παραγραφὴν,Demosthenes
+738,738,20.478912,12.192667,Ὀλυνθιακὸς γ΄,Demosthenes
+739,739,16.634815,10.9798975,κατὰ Φιλίππου α΄,Demosthenes
+740,740,10.24035,-1.8355525,πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος,Demosthenes
+741,741,25.578535,10.637595,ἔφεσις πρὸς Εὐβουλίδην,Demosthenes
+742,742,16.602764,-1.0177029,ἐρωτικὸς,Demosthenes
+743,743,18.333923,-1.3818073,κατὰ Νεαίρας,Demosthenes
+744,744,19.222206,11.112086,περὶ τῆς εἰρήνης,Demosthenes
+745,745,20.920494,11.484245,Ὀλυνθιακὸς β΄,Demosthenes
+746,746,24.280928,-0.7085328,πρὸς Φορμίωνα ὑπὲρ δανείου,Demosthenes
+747,747,6.025817,0.025106257,πρὸς Ἀπατούριον παραγραφή,Demosthenes
+748,748,18.640396,11.907495,ἔνδειξις κατὰ Θεοκρίνου,Demosthenes
+749,749,17.703451,0.3594164,ἐπιτάφιος,Demosthenes
+750,750,19.190498,9.554648,κατὰ Διονυσοδώρου βλάβης,Demosthenes
+751,751,17.028751,10.325017,περὶ τοῦ Στεφάνου τῆς τριηραρκίας,Demosthenes
+752,752,2.9043257,1.3620235,πρὸς Φαίνιππον περὶ ἀντιδόσεως,Demosthenes
+753,753,17.287022,-2.3700778,κατὰ Στεφάνου ψευδομαρτυριῶν α΄,Demosthenes
+754,754,16.907768,9.291728,πρὸς τὴν ἐπιστολήν τὴν Φιλίππου,Demosthenes
+755,755,24.36796,-3.8452475,ὑπὲρ Μεγαλοπολιτῶν,Demosthenes
+756,756,18.026638,9.747702,πρὸς Ἄφοβον ὑπὲρ Φάνου ψευδομαρτυριῶν γ΄,Demosthenes
+757,757,21.98658,-3.4978209,περὶ τῆς Ἀτελείας πρὸς Λεπτίνην,Demosthenes
+758,758,23.468777,12.395867,κατὰ Ἀφόβου ἐπιτροπῆς α΄,Demosthenes
+759,759,23.672392,12.221422,ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου,Demosthenes
+760,760,15.360653,2.6303246,πρὸς Λεωκάρη περὶ τοῦ Ἀρχιάδου κλήρου,Demosthenes
+761,761,21.895988,-3.6051126,πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου,Demosthenes
+762,762,23.917099,-2.726495,κατὰ Ἀριστογείτονος β΄,Demosthenes
+763,763,13.667529,2.6600897,περὶ τῆς παραπρεσβείας,Demosthenes
+764,764,17.91765,8.723677,κατὰ Μειδίου περὶ τοῦ Κονδύλου,Demosthenes
+765,765,19.963636,-2.6791942,περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν,Demosthenes
