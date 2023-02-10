@@ -12,7 +12,7 @@ st.write(
     """
     [Perseus](http://www.perseus.tufts.edu/hopper/) contains a wide range of Ancient Greek texts from Homer to the New Testament and beyond, 
     yet the relationships between these texts remain under explored in a digital context. This tool, taking advantage of [Gensim's Doc2Vec model](https://radimrehurek.com/gensim/models/doc2vec.html),
-    renders indivdual Ancient Greek texts from the Perseus Digital Library into a form that can easily be compared in the 2 dimensional plot below. It allows researchers to directly compare
+    renders individual Ancient Greek texts from the Perseus Digital Library into a form that can easily be compared in the 2 dimensional plot below. It allows researchers to directly compare
     the works of different authors. 
     
     Using the drop down menu just below this description, you can select any author from the Perseus Digital Library and see how similar 
